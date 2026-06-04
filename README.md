@@ -98,11 +98,17 @@ Key Takeaways:
 * bullets
 
 <details>
-<summary> Interface.dwg - AutoCAD Interface </summary>
+<summary> Units&Options.dwg - How Units & Options are used and configured </summary>
 
-  > Interface.dwg is the same office floor plan used in the previous course, "Learning AutoCAD 2026".
+  > Units&Options.dwg is the same office floor plan used in the previous modules.
 
   **Setting Units**
+  * How do we switch on units, set units, and display units.
+  * Quickest way is to type "units".
+  * There are a few different types onf units, architectural, engineering, decimal, etc. and you can get up to 8 points of precision.
+  * Can check if the setting are set how you wnt by checking the coorditantes in the drawing, accesed via the status bar.
+
+  **Setting Options**
   *
 
 </details>
