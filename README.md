@@ -278,7 +278,9 @@ Key Takeaways:
   **Creating Polylines and Splines Quickly**
   * First, we will make a fully closed polyline that contains line and arc segments.
   * To do this, I used the polyline command starting with a line at 3500 mm, then right clicked to change it to an arc of 2500 mm in mength, and repeated for the bottom and left.
-  * Then added the circular insert with a radius of 800 mm, and [table was created again]().
+  * Then added the circular insert with a radius of 800 mm, and [table was created again](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/5ad71b2906e2617358414a3d6e1aa5264af35b2b/Simple%20Geometry%3A%20The%20Basics/Closed%20Polyline%20Table%20with%20Circular%20Insert.JPG).
+  * Now moving over to the walls, but we will stay in the same layer for now using the spline command.
+  * Used the spline fit tool to create an irregular curve to seperate the [stairs and the seating]().
 
 
 
