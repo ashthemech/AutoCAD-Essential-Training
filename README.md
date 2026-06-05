@@ -146,16 +146,67 @@ Key Takeaways:
 <summary> 4. Navigating Drawings </summary>
 
   Key Takeaways:
-  * ag
+  * Reviewed zooming and panning.
+  * Reviewed model space vs paper space.
+  * Learned how to save and access save views, as well as their usefulness.
+  * Explored mouse click settings.
+  * Learned how to navigate a 3D object model.
+
 <details>
 <summary> 00-GND Floor Plan.dwg - Navigating in Drawings </summary>
- > 00-GND Floor Plan.dwg is the same previous offic building layout in the previous modules.
+ > 00-GND Floor Plan.dwg is the same previous office building layout in the previous modules.
 
   **Zoom and Pan**
   * Review of zooming and panning in AutoCAD.
   * Double clicking on the mouse wheel zooms to the extent of the visible drawing.
-  * Can also be done on the navigation bar.
+  * Can also be done on the navigation bar or the shortcut menu.
 
+  **Working in Model and Paper Spaces**
+  * Everything done in the model tab is full size- its model space is infinite in the x and y.
+  * Need the full size floor plan (30 m x 30 m) onto a piece of paper to communicate the design intent into the layout tab (paper space).
+  * To do this, there is an aspect ratio - i.e. in this case a 1:100 so the model fits on the sheet of paper.
+
+  **Saving and Restoring Views**
+  * Can save different views, called "named views" in AUtoCAD.
+  * The workflow for this depends on the version of AutoCAD you are using (2013 and above).
+  * View tab on the ribbon and go to the "view manager" in the named view panel.
+  * Also in the view controls in the upper left of the drawing.
+  * We will create a large conference room view, and a restroom view.
+  * View Manager -> Model views -> New -> has options for name, category, and type.
+  * Note to expand the box and make sure the Save layer is checked- this saves the current layer visibility settings.
+  * Created one called "Restrooms" as a 2D Plan, and used "define window" to create a bathroom view.
+  * Repeated the process for the conference room, and explored named view panel to see the utility.
+
+  **Mouse and Mouse Settings**
+  * The right click is context sensitive, i.e. if you have the cursors in the drawing vs actively sketching a line.
+  * Can set mouse settings in options to change the default commands, like having "enter" on the keyboard be the "close" command for lines via "time-sensitive right click".
+  * Did this and played around with the quick click vs long click.
+
+  **ViewCube and Nav Bar**
+   > NEW FILE! Simple3DObject.dwg is a 3D object that looks almost like a 2x1 lego flat brick with one longer cylinder on top.
+  * Can change the visual style of the 3D object via the view settings in the top left model tab.
+  * Can use the top right compass cube to switch between views quickly.
+  * Can set a "home" view that will take your back to your preferred view when clicking the house icon.
+  * Navigation wheel can also be pulled out from the right side of the bar, but need to click and gold.
+    * Orbit allows a 3D pan.
   
+</details>
+</details>
+
+<details>
+<summary> 5. Drawing Accurately </summary>
+
+  Key Takeaways:
+  * bueelt
+
+<details>
+<summary> DrawingAccurately.dwg - Drawing in AutoCAD </summary>
+ > DrawingAccurately.dwg is a blank drawing file to work with.
+
+  **Using Grid and Snap**
+  * Grid and snap is controlled on the status bar.
+  * Configured the grid settings and grid snap settings, and [drew some practice shapes]() to get the feel for it.
+
+
 </details>
 </details>
