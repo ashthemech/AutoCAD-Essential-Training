@@ -205,8 +205,14 @@ Key Takeaways:
 
   **Using Grid and Snap**
   * Grid and snap is controlled on the status bar.
-  * Configured the grid settings and grid snap settings, and [drew some practice shapes]() to get the feel for it.
+  * Configured the grid settings and grid snap settings, and [drew some practice shapes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6fba188aa26534e841c9be08e6ff297a2473b512/Drawing%20Accurately/Grid%20Settings.JPG) to get the feel for it.
 
+  **Using Coordinates**
+  * How to draft using coordinate entry.
+  * Now using the line command in the draw panel and hitting @, it prompts us for the coordinates instead of the length.
+    * Entered 250,0 so out bix through the circle is 250 in the x and 0 in the y for the first line.
+    * Repeated this process to copy the previous box this time with the [corner in a circle]().
+  * Can also use the "tab" key to achieve this.
 
 </details>
 </details>
