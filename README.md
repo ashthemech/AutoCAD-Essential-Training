@@ -302,7 +302,10 @@ Key Takeaways:
 
   **Creating Rectangles and Polygons Quickly**
   * Going to the landscape now, and checking I am in the furniture layer (A-700-M_FFE).
-  * 
+  * Using the create rectangle tool and selecting a spot in the landscape, then right clicking the mouse I hit dimensions.
+  * I entered 3500 mm for the width, and 2500 mm for the height, and explored the way the rectangle can be rotated about the initial selection point.
+  * Then, I placed a circle in the top left area of the landscape to use as a guide to create an octagon.
+  * Selected polygon draw tool, specified 8 sides, then chose circumscribed about the circle, and used Autosnap to [size it to the circle]().
 
    
 </details>
