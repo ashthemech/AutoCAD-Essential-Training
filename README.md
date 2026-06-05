@@ -247,7 +247,10 @@ Key Takeaways:
   * Now, using 3 different ways to draw a circular inerst on the table I just drew - first using the simplest method.
     * Used the line tool to divide the table into [2 triangles](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f49831615a64033b9f0e10f9897b4fe2f090501e/Simple%20Geometry%3A%20The%20Basics/Table%20into%20Triangles.JPG).
     * Used the midpoint snap of the intersecting line to [insert a circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/71445037d961300dc98faec79319f956ec866cfc/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Triangles%20and%20Circle%20Insert.JPG) of radius 900 using circle, radius command.
-    * Then erased the intersection line, leaving just the [circular insert in the table]().
+    * Then erased the intersection line, leaving just the [circular insert in the table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a83956935a17019a677b6c87ede5a516ff50daa0/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%201.JPG).
+  * Next methos will be using the AUTOSNAP tool.
+    * Erased the circle from the previous method, leaving just the table.
+    * Used the midpoint of the width and length of the table to find the center of the table with [AUTOSNAP and polar tracking]().
 
 </details>
 </details>
