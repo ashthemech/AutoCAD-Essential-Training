@@ -235,7 +235,11 @@ Key Takeaways:
 <summary> 6. Simple Geometry: The Basics </summary> 
   
   Key Takeaways:
-  * test
+  * Reviewed OSNAP and AUTOSNAP to create a rectangular table with 3 different methods.
+  * Reviewed using POLAR and ORTHO for drawing the rectangular table.
+  * Reviewed using lies, arcs, and circles by making a landscape area and creating a rounded rectangular table.
+  * Reviewed using polylines and splines by recreating the rounded table and creating a dividing wall.
+  * Reviewed using offset, extend, and match properties tools on the dividing wall.
 
 <details>
 <summary> GND Floor Plan.dwg - Basics of Simple Geometry </summary>
@@ -277,7 +281,7 @@ Key Takeaways:
 
   **Creating Polylines and Splines Quickly**
   * First, we will make a fully closed polyline that contains line and arc segments.
-  * To do this, I used the polyline command starting with a line at 3500 mm, then right clicked to change it to an arc of 2500 mm in mength, and repeated for the bottom and left.
+  * To do this, I used the polyline command starting with a line at 3500 mm, then right clicked to change it to an arc of 2500 mm in length, and repeated for the bottom and left.
   * Then added the circular insert with a radius of 800 mm, and [table was created again](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/5ad71b2906e2617358414a3d6e1aa5264af35b2b/Simple%20Geometry%3A%20The%20Basics/Closed%20Polyline%20Table%20with%20Circular%20Insert.JPG).
   * Now moving over to the walls, but we will stay in the same layer for now using the spline command.
   * Used the spline fit tool to create an irregular curve to seperate the [stairs and the seating](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ea8a06ebd114fe63b1fb82fa32fa509337001b65/Simple%20Geometry%3A%20The%20Basics/Stair%20and%20Seating%20Spline%20Fit.JPG).
@@ -285,7 +289,20 @@ Key Takeaways:
   * Then I used the [line and extend command](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/00a29068999e914e6bbe4ccabfc74db88b6b7509/Simple%20Geometry%3A%20The%20Basics/Line%20and%20Extend%20on%20Spline%20Wall.JPG) to close the left side of the wall and extend the lower segment to the rest of the wall.
   * Finally, used the "Match Properties" tool to match the new spline wall to the proper layer of the [existing walls](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/24839c3094a3457cfdbe143fbb6e3045e42e2a3d/Simple%20Geometry%3A%20The%20Basics/Layer%20match%20of%20Spline%20Wall%20to%20Wall.JPG).
 
-
-
 </details>
+</details>
+
+<details>
+<summary> 7. Other Drafting Tools </summary>  
+  Key Takeaways:
+  * 
+
+  <summary> GND Floor Plan_REV2.dwg - More Drafting Tools </summary>
+   > GND Floor Plan_REV2.dwg is the same previous office building layout in previous modules, with some added furniture in the previously empty rooms.
+
+  **Creating Rectangles and Polygons Quickly**
+  * Going to the landscape now, and checking I am in the furniture layer (A-700-M_FFE).
+  * 
+
+   
 </details>
