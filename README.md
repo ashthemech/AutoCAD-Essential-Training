@@ -244,15 +244,15 @@ Key Takeaways:
   **OSNAP and AUTOSNAP**
   * Going to draw some furniture here, so I made sure I had the furniture layer selected (A-700-M_FFE).
   * Used the rectangle tool to draw a 3500mm by 2500mm table.
-  * Now, using 3 different ways to draw a circular inerst on the table I just drew - first using the simplest method.
+  * Now, using 3 different ways to draw a circular insert on the table I just drew - first using the simplest method.
     * Used the line tool to divide the table into [2 triangles](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f49831615a64033b9f0e10f9897b4fe2f090501e/Simple%20Geometry%3A%20The%20Basics/Table%20into%20Triangles.JPG).
     * Used the midpoint snap of the intersecting line to [insert a circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/71445037d961300dc98faec79319f956ec866cfc/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Triangles%20and%20Circle%20Insert.JPG) of radius 900 using circle, radius command.
     * Then erased the intersection line, leaving just the [circular insert in the table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a83956935a17019a677b6c87ede5a516ff50daa0/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%201.JPG).
-  * Next methos will be using the AUTOSNAP tool.
+  * Next method will be using the AUTOSNAP tool.
     * Erased the circle from the previous method, leaving just the table.
     * Used the midpoint of the width and length of the table to find the center of the table with [AUTOSNAP and polar tracking](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/bbb43524d142a8aaaba9ea8d859052a16e0cafe6/Simple%20Geometry%3A%20The%20Basics/Midpoint%20AutoSnap.png).
     * Entered the radius of 900, and had the [insert added into the table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6ab00c218ce63f4986621558b24c06115d901c58/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%202.JPG).
-  * The last method used ObkectSnap, since the table is closed polyline it has a midpoint of its own.
+  * The last method used ObjectSnap, since the table is closed polyline it has a midpoint of its own.
     * Using the radius, center tool and hovering in the middle of the table we can shift right click to bring up the snap override menu.
     * Then, can select geometric center and hover on one of the lines of the table that will highlight the [center of our table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d1c0c8a9cd1462af375c074c48909de02049dc3f/Simple%20Geometry%3A%20The%20Basics/Geometric%20Center%20ObjectSnap.png).
     * As in the previous steps, enter 900 for the circle's radius and we again have our table with the [circular insert](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/73d8dec8ab8122518b7e2286e1f77bba92f7427b/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%203.JPG).
@@ -260,13 +260,21 @@ Key Takeaways:
   **POLAR and ORTHO**
   * In the same layer, we are drawing the table again but using different tools.
   * We will draw the table using a [closed polyline](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7e244db35b9ec854d41c35517d0b72c50f880bef/Simple%20Geometry%3A%20The%20Basics/Polyline%20and%20Polar%20Tracking.png) instead of the rectangle tool, with polar tracking set to 90 degrees.
-  * Polar tracking can also be set to specifcy specific angles in the settings (i.e. additional angles, 67 degrees - ONE additional angle, not increments of 67).
-  * Another way to draw the table is to use orthoganal tracking.
+  * Polar tracking can also be set to specify specific angles in the settings (i.e. additional angles, 67 degrees - ONE additional angle, not increments of 67).
+  * Another way to draw the table is to use orthogonal tracking.
   * Turning polar off ans switching orthagonal on, which [limits the cursor to horizontal and vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/83ccdbb2a044ca4264687abc099e13f7592202ee/Simple%20Geometry%3A%20The%20Basics/Orthoganal%20Tracking.png).
 
   **Creating Lines, Arcs and Circles**
   * Changed the layer to L_910-M_SITE to place a rectangular group of site lines for a landscaping area.
-  * Used the [line tool and intersection snapping](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a7ce5957bdbd30a2eb69a0dc18fba3b6b9ac4ee4/Simple%20Geometry%3A%20The%20Basics/Intersection%20Snapping.png) to outline the [borders of the landscaping area]() outside of the office.
+  * Used the [line tool and intersection snapping](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a7ce5957bdbd30a2eb69a0dc18fba3b6b9ac4ee4/Simple%20Geometry%3A%20The%20Basics/Intersection%20Snapping.png) to outline the [borders of the landscaping area](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3e7a33af322399482c828dd456b8f2513d08cd71/Simple%20Geometry%3A%20The%20Basics/Boundary%20of%20the%20Landscape%20Area.JPG) outside of the office.
+  * Going back to the furniture layer (A-700-M_FFE) to add some arcs to our table.
+    * What happens if you click the start, center, end arc tool in the wrong order i.e. clockwise? - hit the "undo" and redraw the arc.
+    * BUT, if you are drawing the arc, you can use CTRL to switch the direction.
+  * Made the table with arcs, but the [rectangle is still one object]() - can fix that using modify - explode, which breaks that polyline object into its coponents.
+  * This makes it possible to delete the two vertical lines, so we now have an [oval-ish table]().
+
+
+
 
 </details>
 </details>
