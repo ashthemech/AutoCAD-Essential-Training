@@ -95,7 +95,10 @@ Key Takeaways:
 <summary> 3. Using Units and Options </summary>
 
   Key Takeaways:
-* bullets
+  * How to set the units and the different types of units available.
+  * How to access the options dialogue box and the different settings.
+  * How to work with metric units and imperial units when drawing.
+  * How to save a template file and open a new drawing from a template. 
 
 <details>
 <summary> Units&Options.dwg - How Units & Options are used and configured </summary>
@@ -103,13 +106,56 @@ Key Takeaways:
   > Units&Options.dwg is the same office floor plan used in the previous modules.
 
   **Setting Units**
-  * How do we switch on units, set units, and display units.
-  * Quickest way is to type "units".
-  * There are a few different types onf units, architectural, engineering, decimal, etc. and you can get up to 8 points of precision.
-  * Can check if the setting are set how you wnt by checking the coorditantes in the drawing, accesed via the status bar.
+  * How do we switch on units, set units, and display units?
+  * The quickest way is to type "units".
+  * There are a few different types of units, architectural, engineering, decimal, etc. and you can get up to 8 points of precision.
+  * Can check if the settings are set how you want by checking the coordinates in the drawing, accessed via the status bar.
 
   **Setting Options**
-  *
+  * Quickest way to get to the options menu is use the context shortcut menu (right click).
+  * Files - all of the install files in AutoCAD, only one to really worry about is the automatic save file location (ideally a cloud based folder).
+  * Display - changes how various things are displayed in AutoCAD, like color, resolution, layout, and window options.
+  * Lots of other options to explore- User Preferences: Insertion Scale - source units vs target drawing units, can automatically scale!
 
+  **Working with Metric Units**
+  > NEW FILE! Units-METRIC.dwg is the same office floor plan used in the previous modules.
+  * We are going to draw some lines in the central part of the office floor plan.
+  * The "Specify first point" is on due to DYNMODE being on, and in this drawing it is in metric mm.
+  * Drew a simple rectangle using polar tracking and OSNAP using metric units.
+
+  **Working with Imperial Units**
+  > NEW FILE! Units-Imperial.dwg is the same office floor plan used in the previous modules.
+  * This floor plan uses imperial units in feet and inches and in the architectural setting in the units options.
+  * The biggest difference here is when specifying the length, there is an expected syntax, need to type like you are writing it out ex. 8'-6".
+  * Drew a rectangle in imperial units using the new syntax of 8'-6" and 4'-2".
+
+  **Working with Templates using DWT Files**
+   > NEW FILE! SimpleTemplate.dwg is a file with a blank model tab and a simple ISO A3 Landscape with a title block.
+  * Sometimes you want to have a group of settings in a drawing file that are standard, i.e. layers, unit settings, etc.
+  * Need to save those settings to a template file (.dwt).
+  * Using the template file, we have a few layers here (centerlines, text, titleblock, etc) and units set to metric.
+  * Going to the quick access toolbar and hitting the "Save As". Changing to save as a .dwt takes the template to the default "Template" folder.
+  * Hitting save prompts a template options dialogue box where you can add a description, measurement, and layer notifications.
+  * Now, creating a new drawing file from that template - going to "new" and using the template folder, and opening the saved SimpleTemplate.dwt generates a new drawing with those settings preloaded.
+  
+
+</details>
+</details>
+
+<details>
+<summary> 4. Navigating Drawings </summary>
+
+  Key Takeaways:
+  * ag
+<details>
+<summary> 00-GND Floor Plan.dwg - Navigating in Drawings </summary>
+ > 00-GND Floor Plan.dwg is the same previous offic building layout in the previous modules.
+
+  **Zoom and Pan**
+  * Review of zooming and panning in AutoCAD.
+  * Double clicking on the mouse wheel zooms to the extent of the visible drawing.
+  * Can also be done on the navigation bar.
+
+  
 </details>
 </details>
