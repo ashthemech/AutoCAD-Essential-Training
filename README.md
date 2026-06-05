@@ -280,7 +280,8 @@ Key Takeaways:
   * To do this, I used the polyline command starting with a line at 3500 mm, then right clicked to change it to an arc of 2500 mm in mength, and repeated for the bottom and left.
   * Then added the circular insert with a radius of 800 mm, and [table was created again](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/5ad71b2906e2617358414a3d6e1aa5264af35b2b/Simple%20Geometry%3A%20The%20Basics/Closed%20Polyline%20Table%20with%20Circular%20Insert.JPG).
   * Now moving over to the walls, but we will stay in the same layer for now using the spline command.
-  * Used the spline fit tool to create an irregular curve to seperate the [stairs and the seating]().
+  * Used the spline fit tool to create an irregular curve to seperate the [stairs and the seating](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ea8a06ebd114fe63b1fb82fa32fa509337001b65/Simple%20Geometry%3A%20The%20Basics/Stair%20and%20Seating%20Spline%20Fit.JPG).
+  * Then, I offset it to give it a thickness by using the "measure" tool to measure the walls thinckness, then used [offset to match the wall thickness]() of 120.65mm.
 
 
 
