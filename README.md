@@ -254,7 +254,7 @@ Key Takeaways:
     * Entered the radius of 900, and had the [insert added into the table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6ab00c218ce63f4986621558b24c06115d901c58/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%202.JPG).
   * The last method used ObkectSnap, since the table is closed polyline it has a midpoint of its own.
     * Using the radius, center tool and hovering in the middle of the table we can shift right click to bring up the snap override menu.
-    * Then, can select geometric center and hover on one of the lines of the table that will highlight the [center of our table]().
+    * Then, can select geometric center and hover on one of the lines of the table that will highlight the [center of our table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d1c0c8a9cd1462af375c074c48909de02049dc3f/Simple%20Geometry%3A%20The%20Basics/Geometric%20Center%20ObjectSnap.png).
     * As in the previous steps, enter 900 for the circle's radius and we again have our table with the [circular insert]().
 
 </details>
