@@ -250,7 +250,8 @@ Key Takeaways:
     * Then erased the intersection line, leaving just the [circular insert in the table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a83956935a17019a677b6c87ede5a516ff50daa0/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%201.JPG).
   * Next methos will be using the AUTOSNAP tool.
     * Erased the circle from the previous method, leaving just the table.
-    * Used the midpoint of the width and length of the table to find the center of the table with [AUTOSNAP and polar tracking]().
+    * Used the midpoint of the width and length of the table to find the center of the table with [AUTOSNAP and polar tracking](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/bbb43524d142a8aaaba9ea8d859052a16e0cafe6/Simple%20Geometry%3A%20The%20Basics/Midpoint%20AutoSnap.png).
+    * Entered the radius of 900, and had the [insert added into the table]().
 
 </details>
 </details>
