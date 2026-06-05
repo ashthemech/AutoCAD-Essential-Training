@@ -266,7 +266,7 @@ Key Takeaways:
 
   **Creating Lines, Arcs and Circles**
   * Changed the layer to L_910-M_SITE to place a rectangular group of site lines for a landscaping area.
-  * Used the [line tool and intersection snapping]() to outline the [borders of the landscaping area]() outside of the office.
+  * Used the [line tool and intersection snapping](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a7ce5957bdbd30a2eb69a0dc18fba3b6b9ac4ee4/Simple%20Geometry%3A%20The%20Basics/Intersection%20Snapping.png) to outline the [borders of the landscaping area]() outside of the office.
 
 </details>
 </details>
