@@ -271,8 +271,14 @@ Key Takeaways:
     * What happens if you click the start, center, end arc tool in the wrong order i.e. clockwise? - hit the "undo" and redraw the arc.
     * BUT, if you are drawing the arc, you can use CTRL to switch the direction.
   * Made the table with arcs, but the [rectangle is still one object](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/946816a64fabe223a978a9db52ef13973a7625a2/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Arcs.JPG) - can fix that using modify - explode, which breaks that polyline object into its coponents.
-  * This makes it possible to delete the two vertical lines, so we now have an [oval-ish table]().
+  * This makes it possible to delete the two vertical lines, so we now have an [oval-ish table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/0ef816dd8665806dc6d01c1204ee64f43164c1c9/Simple%20Geometry%3A%20The%20Basics/Oval%20Style%20Table.JPG).
+  * Note that the circular tool remembers the default of the last circle you made- i.e. our circle of radius 900, when using say diameter, center will default to 1800.
+    * Very fast method if you have lots of circles with the same diameter.
 
+  **Creating Polylines and Splines Quickly**
+  * First, we will make a fully closed polyline that contains line and arc segments.
+  * To do this, I used the polyline command starting with a line at 3500 mm, then right clicked to change it to an arc of 2500 mm in mength, and repeated for the bottom and left.
+  * Then added the circular insert with a radius of 800 mm, and [table was created again]().
 
 
 
