@@ -270,7 +270,7 @@ Key Takeaways:
   * Going back to the furniture layer (A-700-M_FFE) to add some arcs to our table.
     * What happens if you click the start, center, end arc tool in the wrong order i.e. clockwise? - hit the "undo" and redraw the arc.
     * BUT, if you are drawing the arc, you can use CTRL to switch the direction.
-  * Made the table with arcs, but the [rectangle is still one object]() - can fix that using modify - explode, which breaks that polyline object into its coponents.
+  * Made the table with arcs, but the [rectangle is still one object](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/946816a64fabe223a978a9db52ef13973a7625a2/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Arcs.JPG) - can fix that using modify - explode, which breaks that polyline object into its coponents.
   * This makes it possible to delete the two vertical lines, so we now have an [oval-ish table]().
 
 
