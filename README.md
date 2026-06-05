@@ -238,6 +238,14 @@ Key Takeaways:
   * test
 
 <details>
-<summary></summary>
+<summary> GND Floor Plan.dwg - Basics of Simple Geometry </summary>
+ > GND Floor Plan.dwg is the same previous office building layout in previous modules.
+
+  **OSNAP and AUTOSNAP**
+  * Going to draw some furniture here, so I made sure I had the furniture layer selected (A-700-M_FFE).
+  * Used the rectangle tool to draw a 3500mm by 2500mm table.
+  * Now, using 3 different ways to draw a circular inerst on the table I just drew - first using the simplest method.
+    * Used the line tool to divide the table into [2 triangles]().
+
 </details>
 </details>
