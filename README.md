@@ -283,6 +283,7 @@ Key Takeaways:
   * Used the spline fit tool to create an irregular curve to seperate the [stairs and the seating](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ea8a06ebd114fe63b1fb82fa32fa509337001b65/Simple%20Geometry%3A%20The%20Basics/Stair%20and%20Seating%20Spline%20Fit.JPG).
   * Then, I offset it to give it a thickness by using the "measure" tool to measure the walls thinckness, then used [offset to match the wall thickness](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/87a515814ba391841e96a2865da9f8a89be12dfc/Simple%20Geometry%3A%20The%20Basics/Offset%20Spline%20Wall.JPG) of 120.65mm.
   * Then I used the [line and extend command]() to close the left side of the wall and extend the lower segment to the rest of the wall.
+  * Finally, used the "Match Properties" tool to match the new spline wall to the proper layer of the [existing walls]().
 
 
 
