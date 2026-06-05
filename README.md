@@ -197,7 +197,10 @@ Key Takeaways:
 <summary> 5. Drawing Accurately </summary>
 
   Key Takeaways:
-  * bueelt
+  * Learned how to use the Grid and Snap functionality.
+  * Used coordinates to draw a simple rectangle.
+  * Used DYNMODE to draw a simple rectangle with polar tracking off.
+  * Used DDE and polar tracking to draw the simple rectangle, fastest method.
 
 <details>
 <summary> DrawingAccurately.dwg - Drawing in AutoCAD </summary>
@@ -210,9 +213,31 @@ Key Takeaways:
   **Using Coordinates**
   * How to draft using coordinate entry.
   * Now using the line command in the draw panel and hitting @, it prompts us for the coordinates instead of the length.
-    * Entered 250,0 so out bix through the circle is 250 in the x and 0 in the y for the first line.
-    * Repeated this process to copy the previous box this time with the [corner in a circle]().
+    * Entered 250,0 so out box through the circle is 250 in the x and 0 in the y for the first line.
+    * Repeated this process to copy the previous box this time with the [corner in a circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4323d413b86f040f04d25558249a5cad50866c9e/Drawing%20Accurately/Using%20Coordinates%20to%20Draw..JPG).
   * Can also use the "tab" key to achieve this.
+  * @ symbol is used for relative coordinates (relative to last points selected), # symbol for absolute coordinates (relative to (0,0)).
 
+  **Using DYNMODE**
+  * Can also use dynamic input to draw the rectangle.
+    * Here, need to enter the relative distance and the angle- but note no negatives here, the cursor must be in the general direction you want to draw.
+  * Drew the standard 250mm by 150mm rectangle, the same as the last two sections.
+
+  **Using Direct Distance Entry**
+  * Drew the exact same rectangle as the previous sections, this time using DDE and polar tracking.
+  * Main difference here, is that with polar tracking on and set to 90 degrees, its easy to type in the preferred distances and use the green polar tracking line.
+  * Also way quicker than the other methods above.
+
+</details>
+</details>
+
+<details>
+<summary> 6. Simple Geometry: The Basics </summary> 
+  
+  Key Takeaways:
+  * test
+
+<details>
+<summary></summary>
 </details>
 </details>
