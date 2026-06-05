@@ -213,7 +213,7 @@ Key Takeaways:
   **Using Coordinates**
   * How to draft using coordinate entry.
   * Now using the line command in the draw panel and hitting @, it prompts us for the coordinates instead of the length.
-    * Entered 250,0 so out box through the circle is 250 in the x and 0 in the y for the first line.
+    * Entered 250,0 so our box through the circle is 250 in the x and 0 in the y for the first line.
     * Repeated this process to copy the previous box this time with the [corner in a circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4323d413b86f040f04d25558249a5cad50866c9e/Drawing%20Accurately/Using%20Coordinates%20to%20Draw..JPG).
   * Can also use the "tab" key to achieve this.
   * @ symbol is used for relative coordinates (relative to last points selected), # symbol for absolute coordinates (relative to (0,0)).
@@ -259,7 +259,10 @@ Key Takeaways:
 
   **POLAR and ORTHO**
   * In the same layer, we are drawing the table again but using different tools.
-  * We will draw the table using a [closed polyline]() instead of the rectangle tool, with polar tracking set to 90 degrees.
+  * We will draw the table using a [closed polyline](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7e244db35b9ec854d41c35517d0b72c50f880bef/Simple%20Geometry%3A%20The%20Basics/Polyline%20and%20Polar%20Tracking.png) instead of the rectangle tool, with polar tracking set to 90 degrees.
+  * Polar tracking can also be set to specifcy specific angles in the settings (i.e. additional angles, 67 degrees - ONE additional angle, not increments of 67).
+  * Another way to draw the table is to use orthoganal tracking.
+  * Turning polar off ans switching orthagonal on, which [limits the cursor to horizontal and vertical lines]().
 
 </details>
 </details>
