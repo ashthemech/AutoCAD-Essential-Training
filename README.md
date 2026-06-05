@@ -255,7 +255,11 @@ Key Takeaways:
   * The last method used ObkectSnap, since the table is closed polyline it has a midpoint of its own.
     * Using the radius, center tool and hovering in the middle of the table we can shift right click to bring up the snap override menu.
     * Then, can select geometric center and hover on one of the lines of the table that will highlight the [center of our table](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d1c0c8a9cd1462af375c074c48909de02049dc3f/Simple%20Geometry%3A%20The%20Basics/Geometric%20Center%20ObjectSnap.png).
-    * As in the previous steps, enter 900 for the circle's radius and we again have our table with the [circular insert]().
+    * As in the previous steps, enter 900 for the circle's radius and we again have our table with the [circular insert](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/73d8dec8ab8122518b7e2286e1f77bba92f7427b/Simple%20Geometry%3A%20The%20Basics/Table%20with%20Circle%20Insert%20Method%203.JPG).
+
+  **POLAR and ORTHO**
+  * In the same layer, we are drawing the table again but using different tools.
+  * We will draw the table using a [closed polyline]() instead of the rectangle tool, with polar tracking set to 90 degrees.
 
 </details>
 </details>
