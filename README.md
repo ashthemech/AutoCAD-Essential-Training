@@ -245,7 +245,8 @@ Key Takeaways:
   * Going to draw some furniture here, so I made sure I had the furniture layer selected (A-700-M_FFE).
   * Used the rectangle tool to draw a 3500mm by 2500mm table.
   * Now, using 3 different ways to draw a circular inerst on the table I just drew - first using the simplest method.
-    * Used the line tool to divide the table into [2 triangles]().
+    * Used the line tool to divide the table into [2 triangles](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f49831615a64033b9f0e10f9897b4fe2f090501e/Simple%20Geometry%3A%20The%20Basics/Table%20into%20Triangles.JPG).
+    * Used the midpoint snap of the intersecting line to [insert a circle]() of radius 900 using circle, radius command.
 
 </details>
 </details>
