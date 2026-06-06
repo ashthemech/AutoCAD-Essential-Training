@@ -437,7 +437,11 @@ Key Takeaways:
 
   ***Using Grips and Grip Editing**
   * To add the hatching back to the building, I went to the drawl panel and selected hatching.
-  * Then, I selected the match properties, selected the previous hatching and copied it over to the [new wall layout]().
+  * Then, I selected the match properties, selected the previous hatching and copied it over to the [new wall layout](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/06f1bf375b7b6332aae1c54b521990ef05f154b3/Modifying%20Objects/Adding%20Back%20the%20Hatching.JPG).
+  * I deleted the upper left desk setup as we are going to use the grip editing tool to mirror the adjacent setup over.
+  * Then, selecting the cubicle setup from the adjacent cubicle (desk, plant, computer, chair) I select the grip on the desk to make it a "hot grip" (turning red).
+  * I can mirror the setup by hitting mirror in the shortcut menu, then shotcut menu again and selecting "base point".
+  * I selected the base point to be the middle of the dividor again, then selected copy from the shortcut menu before finising to ensure it [copied over]().
 
   
 </details>
