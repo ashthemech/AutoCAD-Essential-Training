@@ -410,7 +410,8 @@ Key Takeaways:
   * Note - these ones are not on the shortcut menu! Need to go to the modify panel.
   * I selected the office setup using the crossing lasso tool, then clicked mirror in the modify panel.
   * I set the mirror line to the midpoint of the cibicle division wall, then followed through to the end of the divider so the [setup is mirrored](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/32ebc60c32bfe452aa5fa32d68a627d6097704e2/Modifying%20Objects/Mirror%20the%20Office%20Setup%20to%20Right%20Cubicle.JPG).
-  * Then to fix the lower left desk setup, I selected the objects in the cubicle and used the repeat mirorr command to flip the setup so the [desk is accessible]().
+  * Then to fix the lower left desk setup, I selected the objects in the cubicle and used the repeat mirorr command to flip the setup so the [desk is accessible](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/1cd00f1c02fbbac4b2046d2f521e338260c18d9c/Modifying%20Objects/Flip%20the%20Desk%20Setup.JPG). This time, deleting the original objects.
+  * Then, in the "walls" layer, I drew two new lines offshooting from the office for trash storage. Uisng he measure tool to measure the inside wall width, I then set the offset to 150 to [complete the outline]().
   
 </details>
 </details>
