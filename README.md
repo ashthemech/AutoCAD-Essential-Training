@@ -328,8 +328,8 @@ Key Takeaways:
 
   **Creating Ellipses Quickly**
   > NEW FILE: Cylinder.dwg - a drawing with two vertical lines where I will finish the cylinder on a 2D drawing to look like a 3D representation.
-  * Used the center, end ellipse tool to [create an ellipse at the top]() of the two vertical lines, specifying 60 degrees (since we want an isometric representation) using the rotation option.
-  * Now need an eliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/711b49d74c4f6d80d1c5a82e57116407d440d0ab/Other%20Drafting%20Tools/Cylinder%20with%20Top%20Ellipse.JPG).
+  * Used the center, end ellipse tool to [create an ellipse at the top](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/711b49d74c4f6d80d1c5a82e57116407d440d0ab/Other%20Drafting%20Tools/Cylinder%20with%20Top%20Ellipse.JPG) of the two vertical lines, specifying 60 degrees (since we want an isometric representation) using the rotation option.
+  * Now need an eliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/021b5a2bdd1450458f1418c02dbfef8d4c7e6819/Other%20Drafting%20Tools/Completed%20Cylinder.JPG).
     * Set the rotation again to 60 degrees, and then specified the start angle by going counterclockwise from the left vertical line to the right vertical line.
     
 </details>
