@@ -404,6 +404,7 @@ Key Takeaways:
   * Can also rtate by angle value- remember counterclockwise is positive, clockwise is negative.
   * I repeated the process for the chair, so now both the computer and the chair are [aligned correctly](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ccc3706403e1a8ab42722314fe3f6b5380524395/Modifying%20Objects/Rotated%20Office%20Chair%20and%20Computer.JPG).
   * Next, I copied the plant and moved it to be on the top of the deck object, and used the scale function to scale it down to 60% of the original so it [fits nicely](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a854395eada758fa0cec3b9c09205c0cfebfd82a/Modifying%20Objects/Scaling%20Plant.JPG).
+  * Then, I copied the desk setup from the previous setup onto the other desk in the lower [left corner](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4768f4c5cd65100c993ef5df43d83355a2c24264/Modifying%20Objects/Copied%20and%20Moved%20Desk%20Setup.JPG).
   
 </details>
 </details>
