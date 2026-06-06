@@ -295,8 +295,10 @@ Key Takeaways:
 <details>
 <summary> 7. Other Drafting Tools </summary>  
   Key Takeaways:
+  * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
   * 
 
+<details>
   <summary> GND Floor Plan_REV2.dwg - More Drafting Tools </summary>
    > GND Floor Plan_REV2.dwg is the same previous office building layout in previous modules, with some added furniture in the previously empty rooms.
 
@@ -305,7 +307,23 @@ Key Takeaways:
   * Using the create rectangle tool and selecting a spot in the landscape, then right clicking the mouse I hit dimensions.
   * I entered 3500 mm for the width, and 2500 mm for the height, and explored the way the rectangle can be rotated about the initial selection point.
   * Then, I placed a circle in the top left area of the landscape to use as a guide to create an octagon.
-  * Selected polygon draw tool, specified 8 sides, then chose circumscribed about the circle, and used Autosnap to [size it to the circle]().
+  * Selected polygon draw tool, specified 8 sides, then chose circumscribed about the circle, and used Autosnap to [size it to the circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f8b37c994b77c782394a25107e3a71b4056ebdf9/Other%20Drafting%20Tools/Octagon%20Table.JPG).
+  * Then, deleted the circle to have just the octagon remaining.
 
-   
+  **Creating Points and Donuts as Reference Points**
+  * Going to make some bike bays in the landscape area for people to bring their bikes.
+  * Layers panel - layer properties, where we want to create 2 new layers.
+    * Bike Bays layer in magenta.
+    * Bike Bays-SO Points (setting out points) also in magenta.
+  * Need to set a point style now, using utilities flyout and opening the point styles dialogue box.
+    * Selected the circle with the diagonal crosshair.
+  * Now in the draw panel, selected Muptiple Points - but using this woul require measuring and dividing by a calculator, so instead we can use the "Divide" option.
+    *Using divide, I selected the right side of the landscape boundary and entered 10 for 10 [bike bay points]().
+  * Then, zooming out I tried the "REGEN" command, and saw the bike bay points resize to the 5% of screen size based on the settings for the bike point layer.
+  * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays]().
+  * Since we used two layers, we can click on the sun symbol to freeze the SO bay layer to hide the [node points]().
+
+
+    
+</details>
 </details>
