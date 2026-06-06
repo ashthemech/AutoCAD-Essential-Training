@@ -459,7 +459,7 @@ Key Takeaways:
   * Right click, and radius which I set to 150.
     * NOTE, this will only allow you to do 1 fillet! Right click again, and go into multiple model
   * Similar workflow for Chamfer, but there are two methods: distance, angle. Can also use method to bounce between them.
-  * I used the fillet tool on the [first desk with the computer], with radius set to 150 mm and selected multiple to the two corners.
+  * I used the fillet tool on the [first desk with the computer](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b25629861f9cc4a896e34d33d8d89f1a25097a45/Modifying%20Objects/Fillet%20on%20Desk.png), with radius set to 150 mm and selected multiple to the two corners.
   * Then, I used the Chamfer tool on the second desk with the distance set to 150 mm as well, and used that on the [second desk]().
 
 
