@@ -320,7 +320,7 @@ Key Takeaways:
   * Now in the draw panel, selected Muptiple Points - but using this woul require measuring and dividing by a calculator, so instead we can use the "Divide" option.
     *Using divide, I selected the right side of the landscape boundary and entered 10 for 10 [bike bay points](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/51de4b058d2d32788a9466f8d467e39826960e2f/Other%20Drafting%20Tools/Bike%20Bay%20Points%20using%20Divide.JPG).
   * Then, zooming out I tried the "REGEN" command, and saw the bike bay points resize to the 5% of screen size based on the settings for the bike point layer.
-  * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays]().
+  * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/69e3726f421121d98b03c04f753326bf5d53536f/Other%20Drafting%20Tools/Bike%20Bays%20with%20Set%20Out%20Points.JPG).
   * Since we used two layers, we can click on the sun symbol to freeze the SO bay layer to hide the [node points]().
 
 
