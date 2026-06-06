@@ -409,7 +409,8 @@ Key Takeaways:
   **Using Mirror and Offset**
   * Note - these ones are not on the shortcut menu! Need to go to the modify panel.
   * I selected the office setup using the crossing lasso tool, then clicked mirror in the modify panel.
-  * I set the mirror line to the midpoint of the cibicle division wall, then followed through to the end of the divider so the [setup is mirrored]().
+  * I set the mirror line to the midpoint of the cibicle division wall, then followed through to the end of the divider so the [setup is mirrored](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/32ebc60c32bfe452aa5fa32d68a627d6097704e2/Modifying%20Objects/Mirror%20the%20Office%20Setup%20to%20Right%20Cubicle.JPG).
+  * Then to fix the lower left desk setup, I selected the objects in the cubicle and used the repeat mirorr command to flip the setup so the [desk is accessible]().
   
 </details>
 </details>
