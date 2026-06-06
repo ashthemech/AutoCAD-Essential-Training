@@ -446,7 +446,7 @@ Key Takeaways:
   **Using Boundaries**
    > NEW FILE: OfficeLayout_2.dwg is the same previous office layout, now with added rubbish bins, a welcome desk, and some landscaping.
   * We are going to add a boundary in the "hardstanding" layer in the landscape area.
-  * I selected the "boundary" tool from the hatching menu and selected the center [landscape block]().
+  * I selected the "boundary" tool from the hatching menu and selected the center [landscape block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/88c0316d87112282da8b9b76a225611b867cff12/Modifying%20Objects/Added%20Boundary.JPG).
   * Boundaries allow you to add hatching in a different way.
   * Selected the hatching tool, and the "ANGLE" pattern at a scale of 250 to add to the center [landscape block]().
   * You can also go into the boundaries tab in the hatching menu, and select the objects you want to be the boundary.
