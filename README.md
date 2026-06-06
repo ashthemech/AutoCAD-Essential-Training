@@ -339,7 +339,7 @@ Key Takeaways:
   * Can generate isometric drawings - uses 30 or 60 degree angles to make what looks like a 3D object.
   * On the status bar we have ISODRAFT, can also set the Isoplane to top, left, or right.
   * Using the left setting and OSNAP on, we can complete the left side of the isometric rectangle, where the polar snapping follows the left [Isoplane axes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6c46bae65558cbd42b112b0873628c2c01c64f9c/Other%20Drafting%20Tools/Isometric%20Rectangle%20Left.png).
-  * Can do the same on the top Isoplane to complete the [isometric rectangle]().
+  * Can do the same on the top Isoplane to complete the [isometric rectangle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7601f7d575c8c1370e2f586e968189f83366634c/Other%20Drafting%20Tools/Completed%20Isometric%20Rectangle.JPG).
 
     
 </details>
