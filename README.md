@@ -318,7 +318,7 @@ Key Takeaways:
   * Need to set a point style now, using utilities flyout and opening the point styles dialogue box.
     * Selected the circle with the diagonal crosshair.
   * Now in the draw panel, selected Muptiple Points - but using this woul require measuring and dividing by a calculator, so instead we can use the "Divide" option.
-    *Using divide, I selected the right side of the landscape boundary and entered 10 for 10 [bike bay points]().
+    *Using divide, I selected the right side of the landscape boundary and entered 10 for 10 [bike bay points](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/51de4b058d2d32788a9466f8d467e39826960e2f/Other%20Drafting%20Tools/Bike%20Bay%20Points%20using%20Divide.JPG).
   * Then, zooming out I tried the "REGEN" command, and saw the bike bay points resize to the 5% of screen size based on the settings for the bike point layer.
   * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays]().
   * Since we used two layers, we can click on the sun symbol to freeze the SO bay layer to hide the [node points]().
