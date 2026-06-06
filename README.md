@@ -294,11 +294,13 @@ Key Takeaways:
 
 <details>
 <summary> 7. Other Drafting Tools </summary>  
+  
   Key Takeaways:
   * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
   * Learned how to create setting out points using layers by creating bike bays in the landscape using the divide and copy functions.
   * Learned how to make a setting out point highlight by using the donut tool.
   * Learned how to create ellipses by creating an isomatric representation of a cylinder.
+  * Learned how to use ISODRAFT to create isometric models by completing an isometric rectangle.
 
 <details>
   <summary> GND Floor Plan_REV2.dwg - More Drafting Tools </summary>
@@ -341,6 +343,15 @@ Key Takeaways:
   * Using the left setting and OSNAP on, we can complete the left side of the isometric rectangle, where the polar snapping follows the left [Isoplane axes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6c46bae65558cbd42b112b0873628c2c01c64f9c/Other%20Drafting%20Tools/Isometric%20Rectangle%20Left.png).
   * Can do the same on the top Isoplane to complete the [isometric rectangle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7601f7d575c8c1370e2f586e968189f83366634c/Other%20Drafting%20Tools/Completed%20Isometric%20Rectangle.JPG).
 
-    
 </details>
+</details>
+
+<details>
+<summary> 7. Other Drafting Tools </summary>  
+  Key Takeaways:
+  * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
+  * Learned how to create setting out points using layers by creating bike bays in the landscape using the divide and copy functions.
+  * Learned how to make a setting out point highlight by using the donut tool.
+  * Learned how to create ellipses by creating an isomatric representation of a cylinder.
+  * Learned how to use ISODRAFT to create isometric models by completing an isometric rectangle.
 </details>
