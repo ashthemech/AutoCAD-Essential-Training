@@ -463,7 +463,16 @@ Key Takeaways:
   * Then, I used the Chamfer tool on the second desk with the distance set to 150 mm as well, and used that on the [second desk](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/cc112a537e71436e4630eb484021def51cd0cdf3/Modifying%20Objects/Fillet%20and%20Chamfer%20on%20Desk.png).
 
   **Divide and Measure**
-  * 
+  * Allows us to divide and measure geometries to place objects on those points.
+  * Ensuring I was on the "nodes" layer, then clicked utilities and Point Style, using the circle and the diagonal cross.
+  * Selected divide to add 5 node points to the landscaping near the [trash bins]().
+  * Then, copied the plant over and placed it over the nodes along the [landscape line]().
+  * Now we will do a similar thing, but using measure aong the bottom row of landscaping.
+  * Used the measure function in the draw to put equal [spaces of 1000](), if we did not know the spacing needed, we would need to measure that line and find the spacing.
+  * Then, copying the plant again I placed the plants on the [node spaces]().
+  * Now, we need to get rid of the nodes on the drawing and can do so by freezing the nodes layer.
+  * We can also use just the line itself, and using blocks BUT need to make sure the block is sized for the right scale.
+    * Using the divide function, before entering the number of nodes right click and hit "Block" then enter "plant", but they look [very large]()!
 
 
   
