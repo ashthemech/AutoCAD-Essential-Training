@@ -298,6 +298,7 @@ Key Takeaways:
   * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
   * Learned how to create setting out points using layers by creating bike bays in the landscape using the divide and copy functions.
   * Learned how to make a setting out point highlight by using the donut tool.
+  * Learned how to create ellipses by creating an isomatric representation of a cylinder.
 
 <details>
   <summary> GND Floor Plan_REV2.dwg - More Drafting Tools </summary>
@@ -329,8 +330,15 @@ Key Takeaways:
   **Creating Ellipses Quickly**
   > NEW FILE: Cylinder.dwg - a drawing with two vertical lines where I will finish the cylinder on a 2D drawing to look like a 3D representation.
   * Used the center, end ellipse tool to [create an ellipse at the top](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/711b49d74c4f6d80d1c5a82e57116407d440d0ab/Other%20Drafting%20Tools/Cylinder%20with%20Top%20Ellipse.JPG) of the two vertical lines, specifying 60 degrees (since we want an isometric representation) using the rotation option.
-  * Now need an eliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/021b5a2bdd1450458f1418c02dbfef8d4c7e6819/Other%20Drafting%20Tools/Completed%20Cylinder.JPG).
+  * Now need an elliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/021b5a2bdd1450458f1418c02dbfef8d4c7e6819/Other%20Drafting%20Tools/Completed%20Cylinder.JPG).
     * Set the rotation again to 60 degrees, and then specified the start angle by going counterclockwise from the left vertical line to the right vertical line.
+
+  **Using Isometric Drafting (ISODRAFT)**
+  > NEW FILE: Isometric.dwg - a drawing with a half completed isometric rectangle.
+  * Can geenrate isometric draings - uses 30 or 60 degree angles to make what looks like a 3D object.
+  * On the status bar we have ISODRAFT, can also set the Isoplane to top, left, or right.
+  * Using the left setting and OSNAP on, we can complete the left side of the isometric rectangle, where the polar snapping follos the left [Isoplane axes]().
+  * Can do the same on the top Isoplane to complete the [isometric rectangle]().
     
 </details>
 </details>
