@@ -472,7 +472,7 @@ Key Takeaways:
   * Then, copying the plant again I placed the plants on the [node spaces](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/22036acae25291c2bef0db34886387e56a63a7cc/Modifying%20Objects/Plants%20on%20Bottom.png).
   * Now, we need to get rid of the nodes on the drawing and can do so by freezing the nodes layer.
   * We can also use just the line itself, and using blocks BUT need to make sure the block is sized for the right scale.
-    * Using the divide function, before entering the number of nodes right click and hit "Block" then enter "plant", but they look [very large]()!
+    * Using the divide function, before entering the number of nodes right click and hit "Block" then enter "plant", but they look [very large](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b08750a473f932807ddf1d6470d4764ad0b4d49a/Modifying%20Objects/Large%20Plants.png)!
 
 
   
