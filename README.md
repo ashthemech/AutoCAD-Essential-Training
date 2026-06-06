@@ -322,6 +322,8 @@ Key Takeaways:
   * Then, zooming out I tried the "REGEN" command, and saw the bike bay points resize to the 5% of screen size based on the settings for the bike point layer.
   * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/69e3726f421121d98b03c04f753326bf5d53536f/Other%20Drafting%20Tools/Bike%20Bays%20with%20Set%20Out%20Points.JPG).
   * Since we used two layers, we can click on the sun symbol to freeze the SO bay layer to hide the [node points](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/fb10234dcecbde99937ed562e6bd1726a4c2703d/Other%20Drafting%20Tools/Bike%20Bays%20without%20Set%20Out%20Points.JPG).
+  * Now, going to the lower left of the building we will create a donut to highlight a setting out point at the intersection of two gridlines.
+    * Did this by selecting the donut in the draw panel, setting inside radius to 250 mm and outside radius to 500 mm, and snapping to the gridline [intersection point])().
 
 
     
