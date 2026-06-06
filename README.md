@@ -375,6 +375,11 @@ Key Takeaways:
   
   Key Takeaways:
   * Learned how to select objects and the many tools available, namely window vs crossing selections and blocks.
+  * Learned how to use move and copy to move the desk, chair, omputer, and plant into the cubicles.
+  * Learned how to use the rotate function by rotating a computer and chair to face the desks properly.
+  * Learned how to use the scale function by copying a plant object and scaling it down.
+  * Learned how to use the mirror tool by mirroring an office desk setup into the adjacent cubicle.
+  * Learned about the smart block feature in AutoCAD 2025 and beyond.
 
 <details>
 <summary> OfficeLayout.dwg - Modifying Objects </summary>
@@ -417,8 +422,19 @@ Key Takeaways:
   **Using Smart Placement of Blocks**
   * Available since the 2025 version of AutoCAD, implements AI into the workflow.
   * AutoCAd learns from what you do and it can assist you in your workflow.
-  * I went to insert and selected desk, and then hovered next to the wall in the above cubicle and it placed it where it thinks [I may want it]().
+  * I went to insert and selected desk, and then hovered next to the wall in the above cubicle and it placed it where it thinks [I may want it](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/adc9d6431a7a142b4ae579a87026c3a142480142/Modifying%20Objects/Smart%20Placement.png).
   * Pretty neat little feature!
+
+  **Using Break and Join**
+  * Moved the door lines from the "walls" layer to the "doors" layer by highlighting them and then selecting the appropriate layer in the drop down.
+  * Moved the objects and chair from the lower desk to the upper desk using the mirror command, and then deleted the lower desk.
+  * Changed the hatching in the walls from the wall layer to the "hatching" layer using the same process as the door.
+  * Now, we want to move the door over to the lefthand side.
+    * To do this, I selected the door and the frame, I selected mirror tool, opened the snap override from shortcut menu and selected midpoint between 2 points, and chose the corners of the outer wall.
+    * Then, used polar tracking to go along the midpoint of the outer wall to move the door to the left.
+    * To fix the holes the door left, I used the join tool to join the walls back together.
+    * Then, to erase the walls within the door I used the break tool to make an opening for the door using first point and end point, [completing this section]().
+
   
 </details>
 </details>
