@@ -491,8 +491,15 @@ Key Takeaways:
   * Added a spline to the landscaping on the left to connect the two bush rows.
   * Using the shortcut menu, you can go into the Spline option and edit, I played around with the control [verticies function](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4ead1f386793ba14fe9e101969292f3a796a46ae/Modifying%20Objects/Spline%20Verticies%20Function.png). 
 
+  **Using Trim and Extend**
+   > NEW FILE: OfficeLayout_3.dwg is the same previous office layout, now with added features up at the top.
+  * Extend lets you extend geometry to another piece of geometry.
+  * Using extend, I selected boundary to select the landscape spine as the endpoint for our extend.
+  * In newer versions of AutoCAD, you can drag through the objects to extend using the ["fence" tool]().
+  * Now, we want to trim them inside that circle for the decking, so using the same process as above but using the ["trim" tool](), I did so.
+    *Note for this, it is called "cutting edge" instead of "boundary".
 
-
+ ****
 
   
 </details>
