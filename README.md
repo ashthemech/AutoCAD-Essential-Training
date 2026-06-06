@@ -335,7 +335,6 @@ Key Takeaways:
   * Now need an elliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/021b5a2bdd1450458f1418c02dbfef8d4c7e6819/Other%20Drafting%20Tools/Completed%20Cylinder.JPG).
     * Set the rotation again to 60 degrees, and then specified the start angle by going counterclockwise from the left vertical line to the right vertical line.
 
-
   **Using Isometric Drafting (ISODRAFT)**
   > NEW FILE: Isometric.dwg - a drawing with a half completed isometric rectangle.
   * Can generate isometric drawings - uses 30 or 60 degree angles to make what looks like a 3D object.
@@ -347,11 +346,57 @@ Key Takeaways:
 </details>
 
 <details>
-<summary> 7. Other Drafting Tools </summary>  
+<summary> 8. Exploring the Interface Further </summary>
+  
   Key Takeaways:
-  * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
-  * Learned how to create setting out points using layers by creating bike bays in the landscape using the divide and copy functions.
-  * Learned how to make a setting out point highlight by using the donut tool.
-  * Learned how to create ellipses by creating an isomatric representation of a cylinder.
-  * Learned how to use ISODRAFT to create isometric models by completing an isometric rectangle.
+  * Reviewed working with File Tabs and the context shortcut menu.
+
+<details>
+<summary> GND Floor Plan_REV3.dwg - More Drafting Tools </summary>
+ > GND Floor Plan_REV3.dwg is the same previous office building layout in previous module, with our bike bays and tables in the landscaping area.
+  
+  **Working with File Tabs**
+  * The drawing file tab bar is in the upper left above the drafting area.
+  * An asterisk on an open file lets you know something has changed and it is not yet saved.
+  * If you hover over the file tab, you can see and navigate the different layout tabs in a mini picture.
+  * Can also plot and publish from there as well.
+  * You also have the three lines on the top and bottom left in newer versions of AutoCAD.
+
+  **Using the Shortcut Menu**
+  * Also known as right click menu
+  * Context sensitive, so it depends on what tool you are currently using.
+  * On the default right click, you can find objects, count them, etc. - lots of functionalities.
+  
+</details>
+</details>
+
+<details>
+<summary> 9. Modifying Objects </summary>
+  
+  Key Takeaways:
+  * Learned how to select objects and the many tools available, namely window vs crossing selections and blocks.
+
+<details>
+<summary> OfficeLayout.dwg - Modifying Objects </summary>
+ > OfficeLayout.dwg is a simple office layout with walls and some objects outside of the walls.
+  
+  **Selecting Objects**
+  * To be able to modify objects, need to know how to select them.
+  * Quickest way is to move the crosshairs over the object, and it will highlight, then left click and will turn pale blue.
+  * A block is a group of lines that have been converted into a "block" - here, it is a desk.
+  * Can select multiple objects at once into a selection set.
+  * To remove from a selection set, use shift click.
+  * Quickest way to select more than one object is to left click once, release the mouse button, and use the window to select.
+  * Crossing selection goes from right to left - do not need to encompass all of the objects.
+  * Window selection goes from left to right - need to encompass all objects.
+  * Lasso tool - from left to right is the window selection, and right to left is the encompass selection. Freehand draw by clicking and holding.
+
+  **Using Move and Copy**
+  * Can use move and copy commands from the modify menu or the shortcut menu.
+  * When moving, it will prompt for a point to move from, then left you decide where to move the object to.
+  * When copying, it will also ask you for a base point, then will let you make a copy to an endpoint. Note it will keep copying until you hit esc or enter.
+  * I moved the desk into one of the cubicles, and made a copy of it and added that copy into a different cubicle.
+  * Did the same process with the plant, then moved the computer and chair into the [upper cubicle](). 
+  
+</details>
 </details>
