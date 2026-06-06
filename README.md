@@ -402,7 +402,8 @@ Key Takeaways:
   * In the upper cubicle from the last section, the computer and chair aren't oriented corrently.
   * Went to Polar tracking to change 45 degree increments on, then selected the computer and rotated it so it faces the chair area.
   * Can also rtate by angle value- remember counterclockwise is positive, clockwise is negative.
-  * I repeated the process for the chair, so now both the computer and the chair are [aligned correctly]().
+  * I repeated the process for the chair, so now both the computer and the chair are [aligned correctly](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ccc3706403e1a8ab42722314fe3f6b5380524395/Modifying%20Objects/Rotated%20Office%20Chair%20and%20Computer.JPG).
+  * Next, I copied the plant and moved it to be on the top of the deck object, and used the scale function to scale it down to 60% of the original so it [fits nicely]().
   
 </details>
 </details>
