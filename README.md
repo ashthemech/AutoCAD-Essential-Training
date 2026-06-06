@@ -396,7 +396,13 @@ Key Takeaways:
   * When moving, it will prompt for a point to move from, then left you decide where to move the object to.
   * When copying, it will also ask you for a base point, then will let you make a copy to an endpoint. Note it will keep copying until you hit esc or enter.
   * I moved the desk into one of the cubicles, and made a copy of it and added that copy into a different cubicle.
-  * Did the same process with the plant, then moved the computer and chair into the [upper cubicle](). 
+  * Did the same process with the plant, then moved the computer and chair into the [upper cubicle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f83f5c8ebe689bdc28ea0637c2c1b7735296cff2/Modifying%20Objects/Copied%20and%20Moved%20Objects.JPG).
+
+  **Using Rotate and Scale**
+  * In the upper cubicle from the last section, the computer and chair aren't oriented corrently.
+  * Went to Polar tracking to change 45 degree increments on, then selected the computer and rotated it so it faces the chair area.
+  * Can also rtate by angle value- remember counterclockwise is positive, clockwise is negative.
+  * I repeated the process for the chair, so now both the computer and the chair are [aligned correctly]().
   
 </details>
 </details>
