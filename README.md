@@ -468,7 +468,7 @@ Key Takeaways:
   * Selected divide to add 5 node points to the landscaping near the [trash bins](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ae639323b9722bf9b89de151a615e25ece1d4c77/Modifying%20Objects/Nodes%20Near%20Trash.png).
   * Then, copied the plant over and placed it over the nodes along the [landscape line](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3f9ab958bc55ef63f0c95affe3e586f36cc59517/Modifying%20Objects/Plants%20Near%20Trash.png).
   * Now we will do a similar thing, but using measure aong the bottom row of landscaping.
-  * Used the measure function in the draw to put equal [spaces of 1000](), if we did not know the spacing needed, we would need to measure that line and find the spacing.
+  * Used the measure function in the draw to put equal [spaces of 1000](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4933cae4fbd401ebd8d0ab9de8dac45852f7cf34/Modifying%20Objects/Nodes%20on%20Bottom.png), if we did not know the spacing needed, we would need to measure that line and find the spacing.
   * Then, copying the plant again I placed the plants on the [node spaces]().
   * Now, we need to get rid of the nodes on the drawing and can do so by freezing the nodes layer.
   * We can also use just the line itself, and using blocks BUT need to make sure the block is sized for the right scale.
