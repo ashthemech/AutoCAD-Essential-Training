@@ -433,7 +433,11 @@ Key Takeaways:
     * To do this, I selected the door and the frame, I selected mirror tool, opened the snap override from shortcut menu and selected midpoint between 2 points, and chose the corners of the outer wall.
     * Then, used polar tracking to go along the midpoint of the outer wall to move the door to the left.
     * To fix the holes the door left, I used the join tool to join the walls back together.
-    * Then, to erase the walls within the door I used the break tool to make an opening for the door using first point and end point, [completing this section]().
+    * Then, to erase the walls within the door I used the break tool to make an opening for the door using first point and end point, [completing this section](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/c088539b96b03131d8bfef8ef34f909ebc911950/Modifying%20Objects/Office%20after%20Join%20and%20Break%20Section.JPG).
+
+  ***Using Grips and Grip Editing**
+  * To add the hatching back to the building, I went to the drawl panel and selected hatching.
+  * Then, I selected the match properties, selected the previous hatching and copied it over to the [new wall layout]().
 
   
 </details>
