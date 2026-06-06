@@ -484,7 +484,7 @@ Key Takeaways:
 
   **Editing Polylines and Splines**
   * Took the previous 2 desks that I added fillets and chamfers to and exploded them into their line segments.
-  * Moved the bottom edges of the desk up by 150 mm, then used the trim tool to remove the remaining [segments leftover]().
+  * Moved the bottom edges of the desk up by 150 mm, then used the trim tool to remove the remaining [segments leftover](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/c8f014613bb008f7e37bca4f7690b15bbbb64d7f/Modifying%20Objects/Resizing%20the%20Desks.png).
   * Now, we need to make the exploded polylines back into a polyline, we can do this through a keyboard entry shortcut.
     * pe is the command, polyline edit. Using this, I de-exploded the desks back into polylines.
   * Added electrical blocks near the [desks]() in the electrical layer.
