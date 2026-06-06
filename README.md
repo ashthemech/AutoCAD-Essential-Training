@@ -387,6 +387,7 @@ Key Takeaways:
   * Learned how to use grips to mirror object selections by coping a desk setup using the grip and mirror command.
   * Learned how to use fillet and chamfer to round and bevel multiple corners by using those tools on desks.
   * Reviewed how to use the divide and measure commands to place nodes and copy plants along set distances on a line.
+  * Learned how to explode polylines and reconnect them back together and how to edit spline verticies.
 
 <details>
 <summary> OfficeLayout.dwg - Modifying Objects </summary>
@@ -480,6 +481,16 @@ Key Takeaways:
   * Now, we need to get rid of the nodes on the drawing and can do so by freezing the nodes layer.
   * We can also use just the line itself, and using blocks BUT need to make sure the block is sized for the right scale.
     * Using the divide function, before entering the number of nodes right click and hit "Block" then enter "plant", but they look [very large](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b08750a473f932807ddf1d6470d4764ad0b4d49a/Modifying%20Objects/Large%20Plants.png)!
+
+  **Editing Polylines and Splines**
+  * Took the previous 2 desks that I added fillets and chamfers to and exploded them into their line segments.
+  * Moved the bottom edges of the desk up by 150 mm, then used the trim tool to remove the remaining [segments leftover]().
+  * Now, we need to make the exploded polylines back into a polyline, we can do this through a keyboard entry shortcut.
+    * pe is the command, polyline edit. Using this, I de-exploded the desks back into polylines.
+  * Added electrical blocks near the [desks]() in the electrical layer.
+  * Added a spline to the landscaping on the left to connect the two bush rows.
+  * Using the shortcut menu, you can go into the Spline option and edit, I played around with the control [verticies function](). 
+
 
 
 
