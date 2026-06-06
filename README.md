@@ -440,8 +440,19 @@ Key Takeaways:
   * Then, I selected the match properties, selected the previous hatching and copied it over to the [new wall layout](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/06f1bf375b7b6332aae1c54b521990ef05f154b3/Modifying%20Objects/Adding%20Back%20the%20Hatching.JPG).
   * I deleted the upper left desk setup as we are going to use the grip editing tool to mirror the adjacent setup over.
   * Then, selecting the cubicle setup from the adjacent cubicle (desk, plant, computer, chair) I select the grip on the desk to make it a "hot grip" (turning red).
-  * I can mirror the setup by hitting mirror in the shortcut menu, then shotcut menu again and selecting "base point".
-  * I selected the base point to be the middle of the dividor again, then selected copy from the shortcut menu before finising to ensure it [copied over]().
+  * I can mirror the setup by hitting mirror in the shortcut menu, then shortcut menu again and selecting "base point".
+  * I selected the base point to be the middle of the dividor again, then selected copy from the shortcut menu before finising to ensure it [copied over](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/902a11755c5a015491d6370a8f27b2799a64c260/Modifying%20Objects/Mirror%20using%20Grip%20Editing.png).
+
+  **Using Boundaries**
+   > NEW FILE: OfficeLayout_2.dwg is the same previous office layout, now with added rubbish bins, a welcome desk, and some landscaping.
+  * We are going to add a boundary in the "hardstanding" layer in the landscape area.
+  * I selected the "boundary" tool from the hatching menu and selected the center [landscape block]().
+  * Boundaries allow you to add hatching in a different way.
+  * Selected the hatching tool, and the "ANGLE" pattern at a scale of 250 to add to the center [landscape block]().
+  * You can also go into the boundaries tab in the hatching menu, and select the objects you want to be the boundary.
+
+  **Using Fillet and Chamfer**
+  * 
 
   
 </details>
