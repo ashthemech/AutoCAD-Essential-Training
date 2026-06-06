@@ -388,6 +388,7 @@ Key Takeaways:
   * Learned how to use fillet and chamfer to round and bevel multiple corners by using those tools on desks.
   * Reviewed how to use the divide and measure commands to place nodes and copy plants along set distances on a line.
   * Learned how to explode polylines and reconnect them back together and how to edit spline verticies.
+  * Learned how to use Trim and Extend with boundary/cutting edges and fence tool.
 
 <details>
 <summary> OfficeLayout.dwg - Modifying Objects </summary>
