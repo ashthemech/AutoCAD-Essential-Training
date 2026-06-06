@@ -496,7 +496,7 @@ Key Takeaways:
   * Extend lets you extend geometry to another piece of geometry.
   * Using extend, I selected boundary to select the landscape spine as the endpoint for our extend.
   * In newer versions of AutoCAD, you can drag through the objects to extend using the ["fence" tool](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/274b2f87982fee719a4a07851498b33a395a67f8/Modifying%20Objects/Using%20Extend.png).
-  * Now, we want to trim them inside that circle for the decking, so using the same process as above but using the ["trim" tool](), I did so.
+  * Now, we want to trim them inside that circle for the decking, so using the same process as above but using the ["trim" tool](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/93b0a721917bf720e79d5649b0ad283569c245a8/Modifying%20Objects/Using%20Trim.png), I did so.
     *Note for this, it is called "cutting edge" instead of "boundary".
 
  ****
