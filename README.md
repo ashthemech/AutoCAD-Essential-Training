@@ -333,12 +333,14 @@ Key Takeaways:
   * Now need an elliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/021b5a2bdd1450458f1418c02dbfef8d4c7e6819/Other%20Drafting%20Tools/Completed%20Cylinder.JPG).
     * Set the rotation again to 60 degrees, and then specified the start angle by going counterclockwise from the left vertical line to the right vertical line.
 
+
   **Using Isometric Drafting (ISODRAFT)**
   > NEW FILE: Isometric.dwg - a drawing with a half completed isometric rectangle.
-  * Can geenrate isometric draings - uses 30 or 60 degree angles to make what looks like a 3D object.
+  * Can generate isometric drawings - uses 30 or 60 degree angles to make what looks like a 3D object.
   * On the status bar we have ISODRAFT, can also set the Isoplane to top, left, or right.
-  * Using the left setting and OSNAP on, we can complete the left side of the isometric rectangle, where the polar snapping follos the left [Isoplane axes]().
+  * Using the left setting and OSNAP on, we can complete the left side of the isometric rectangle, where the polar snapping follows the left [Isoplane axes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6c46bae65558cbd42b112b0873628c2c01c64f9c/Other%20Drafting%20Tools/Isometric%20Rectangle%20Left.png).
   * Can do the same on the top Isoplane to complete the [isometric rectangle]().
+
     
 </details>
 </details>
