@@ -296,7 +296,8 @@ Key Takeaways:
 <summary> 7. Other Drafting Tools </summary>  
   Key Takeaways:
   * Reviewed creating rectangles and polygons by creating two tables in the landscape area.
-  * 
+  * Learned how to create setting out points using layers by creating bike bays in the landscape using the divide and copy functions.
+  * Learned how to make a setting out point highlight by using the donut tool.
 
 <details>
   <summary> GND Floor Plan_REV2.dwg - More Drafting Tools </summary>
@@ -317,15 +318,19 @@ Key Takeaways:
     * Bike Bays-SO Points (setting out points) also in magenta.
   * Need to set a point style now, using utilities flyout and opening the point styles dialogue box.
     * Selected the circle with the diagonal crosshair.
-  * Now in the draw panel, selected Muptiple Points - but using this woul require measuring and dividing by a calculator, so instead we can use the "Divide" option.
+  * Now in the draw panel, selected Multiple Points - but using this would require measuring and dividing by a calculator, so instead we can use the "Divide" option.
     *Using divide, I selected the right side of the landscape boundary and entered 10 for 10 [bike bay points](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/51de4b058d2d32788a9466f8d467e39826960e2f/Other%20Drafting%20Tools/Bike%20Bay%20Points%20using%20Divide.JPG).
   * Then, zooming out I tried the "REGEN" command, and saw the bike bay points resize to the 5% of screen size based on the settings for the bike point layer.
   * Now in the Bike Bays layer, I turned node snapping on to create a 4 m long line on the top bike bay point. Then, I used copy selection and filled in the [remaining bays](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/69e3726f421121d98b03c04f753326bf5d53536f/Other%20Drafting%20Tools/Bike%20Bays%20with%20Set%20Out%20Points.JPG).
   * Since we used two layers, we can click on the sun symbol to freeze the SO bay layer to hide the [node points](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/fb10234dcecbde99937ed562e6bd1726a4c2703d/Other%20Drafting%20Tools/Bike%20Bays%20without%20Set%20Out%20Points.JPG).
   * Now, going to the lower left of the building we will create a donut to highlight a setting out point at the intersection of two gridlines.
-    * Did this by selecting the donut in the draw panel, setting inside radius to 250 mm and outside radius to 500 mm, and snapping to the gridline [intersection point])().
+    * Did this by selecting the donut in the draw panel, setting inside radius to 250 mm and outside radius to 500 mm, and snapping to the gridline [intersection point])(https://github.com/ashthemech/AutoCAD-Essential-Training/blob/8f0d02707d70033c8f4160935b40e96c21239a31/Other%20Drafting%20Tools/Donut%20at%20Grid%20Intersection.JPG).
 
-
+  **Creating Ellipses Quickly**
+  > NEW FILE: Cylinder.dwg - a drawing with two vertical lines where I will finish the cylinder on a 2D drawing to look like a 3D representation.
+  * Used the center, end ellipse tool to [create an ellipse at the top]() of the two vertical lines, specifying 60 degrees (since we want an isometric representation) using the rotation option.
+  * Now need an eliptical arc along the bottom - I did this using the elliptical arc tool on the [botom of the two vertical lines]().
+    * Set the rotation again to 60 degrees, and then specified the start angle by going counterclockwise from the left vertical line to the right vertical line.
     
 </details>
 </details>
