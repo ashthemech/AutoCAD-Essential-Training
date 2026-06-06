@@ -465,7 +465,7 @@ Key Takeaways:
   **Divide and Measure**
   * Allows us to divide and measure geometries to place objects on those points.
   * Ensuring I was on the "nodes" layer, then clicked utilities and Point Style, using the circle and the diagonal cross.
-  * Selected divide to add 5 node points to the landscaping near the [trash bins]().
+  * Selected divide to add 5 node points to the landscaping near the [trash bins](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ae639323b9722bf9b89de151a615e25ece1d4c77/Modifying%20Objects/Nodes%20Near%20Trash.png).
   * Then, copied the plant over and placed it over the nodes along the [landscape line]().
   * Now we will do a similar thing, but using measure aong the bottom row of landscaping.
   * Used the measure function in the draw to put equal [spaces of 1000](), if we did not know the spacing needed, we would need to measure that line and find the spacing.
