@@ -448,11 +448,20 @@ Key Takeaways:
   * We are going to add a boundary in the "hardstanding" layer in the landscape area.
   * I selected the "boundary" tool from the hatching menu and selected the center [landscape block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/88c0316d87112282da8b9b76a225611b867cff12/Modifying%20Objects/Added%20Boundary.JPG).
   * Boundaries allow you to add hatching in a different way.
-  * Selected the hatching tool, and the "ANGLE" pattern at a scale of 250 to add to the center [landscape block]().
+  * Selected the hatching tool, and the "ANGLE" pattern at a scale of 250 to add to the center [landscape block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/137e87661873b283f259ba07eb9d7199ee8b7041/Modifying%20Objects/Adding%20Hatching%20to%20the%20Boundary.JPG).
   * You can also go into the boundaries tab in the hatching menu, and select the objects you want to be the boundary.
 
   **Using Fillet and Chamfer**
-  * 
+  * Fillet - add a radius to a corner, Chamfer - beveled edge.
+  * Easy way to enhance the geometry, but have a certain workflow that needs to be followed.
+  * On the modify panel of the home ribbon.
+  * Fillet will prompt you to select an object, but you need to make sure the settings you want are set first.
+  * Right click, and radius which I set to 150.
+    * NOTE, this will only allow you to do 1 fillet! Right click again, and go into multiple model
+  * Similar workflow for Chamfer, but there are two methods: distance, angle. Can also use method to bounce between them.
+  * I used the fillet tool on the [first desk with the computer], with radius set to 150 mm and selected multiple to the two corners.
+  * Then, I used the Chamfer tool on the second desk with the distance set to 150 mm as well, and used that on the [second desk]().
+
 
   
 </details>
