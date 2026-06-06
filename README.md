@@ -383,7 +383,8 @@ Key Takeaways:
   * Learned how to move lines on the wrong layer to the correct one though the layer dropdown.
   * Learned how to use the join and break commands to clean up lines.
   * Learned how to use the match properties of the hatching menu to copy a hatching.
-  * Learned how to use grips to mirror object sleections by coping a desk setup using the grip and mirror command.
+  * Learned how to use boundary tools and how to add hatching to a boundary object.
+  * Learned how to use grips to mirror object selections by coping a desk setup using the grip and mirror command.
   * Learned how to use fillet and chamfer to round and bevel multiple corners by using those tools on desks.
   * Reviewed how to use the divide and measure commands to place nodes and copy plants along set distances on a line.
 
