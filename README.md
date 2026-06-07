@@ -500,8 +500,8 @@ Key Takeaways:
   * Now, we want to trim them inside that circle for the decking, so using the same process as above but using the ["trim" tool](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/93b0a721917bf720e79d5649b0ad283569c245a8/Modifying%20Objects/Using%20Trim.png), I did so.
     *Note for this, it is called "cutting edge" instead of "boundary".
 
- ****
-
+  **Creating and Using Arrays**
+  * 
   
 </details>
 </details>
