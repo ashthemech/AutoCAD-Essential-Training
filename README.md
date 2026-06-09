@@ -570,3 +570,51 @@ Key Takeaways:
  
 </details>
 </details>
+
+<details>
+<summary> 11. Annotating Designs </summary>
+
+Key Takeaways:
+
+* Reviewed how to create a new text style templated from a previous style.
+* Reviewed how to add text to drawings and layouts in single line and multiline format. 
+
+<details>
+<summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
+  > MetalPlate_002.dwg is the same as the previous section, but without and dimensions or labels.
+
+  **Creating and Using Text Styles**
+  * Annotation in AutoCAD is to communicate design intent.
+  * Created a new text style called Notes_LAYOUT_3.5mm from the Title_LAYOUT text style, changing the height to 3.5mm and regular text in Calibri.
+  * Created another text style called Labels_MODEL_15mm, changing height to 25mm and Bold text in Calibri.
+
+  **Single Line and MultiLine Text**
+  * Made sure I was on the correct layer of "Text".
+  * Justified to Middle Left, set rotation to 0 degrees and labeled the ["Section View"]().
+  * I copied the "Section View" text and added it to the right of the side view and plan view.
+  * Then, I edited the texts on each to [label accordingly]() "Side View" and "Plan View".
+  * I switched the tab to the "Plan View" Layout, and added a [note block]() to communicate notes in the layout.
+
+</details>  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
