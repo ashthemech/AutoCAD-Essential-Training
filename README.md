@@ -510,7 +510,7 @@ Key Takeaways:
   * This time it asks for a center point, which I selected using object snapping on the circle. Then I chose 12 objects to [fill the circle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/28c2eb7292d3fd37e5cea1141f2a438313f9a1fa/Modifying%20Objects/Center%20Circle%20Polar%20Array.png) more (default was 6).
   * Again, this is an associative array but a polar one.
   * Now, a path array along a spline using the ["path" array](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/c8858ef8ceee2286834835fe164a0d8da69680a3/Modifying%20Objects/Spline%20Array%201.png) tool.
-    * Note, you can use the [divide and measure tool]() in the array ribbon itself!
+    * Note, you can use the [divide and measure tool](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6d0d9cc0aff0dd0a4984c739537ec2ae1a756e0c/Modifying%20Objects/Spine%20Array%202.png) in the array ribbon itself!
     * Can also use the grip to make the distance smaller or bigger (more or less dense). 
 
   
