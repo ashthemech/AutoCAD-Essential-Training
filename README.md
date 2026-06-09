@@ -504,7 +504,7 @@ Key Takeaways:
   **Creating and Using Arrays**
   * Now in the plants layer, utilize the array tools to modify the plans object.
   * Array is essentially a copy command, but with many variables to copy objects more effectively.
-  * Using the [rectangular array](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/2236479ef702829a3a333fe63560d8c370867e5d/Modifying%20Objects/Privacy%20Array%201.png) in the modify panel, I built a [privacy screen of plants]() for the decking with 10 rows and 2 columns. with spacing of 650.
+  * Using the [rectangular array](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/2236479ef702829a3a333fe63560d8c370867e5d/Modifying%20Objects/Privacy%20Array%201.png) in the modify panel, I built a [privacy screen of plants](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a01948d8f356766bd0da27414656af6840729eb0/Modifying%20Objects/Privacy%20Array%202.png) for the decking with 10 rows and 2 columns. with spacing of 650.
   * In later versions of AutoCAD, arrays become associative- the array becomes all one object. Makes it easier to change layers if necessary.
   * Using a similar process for the circular landscaping in the deck, I used the polar array this time to fit to that inner circle.
   * This time it asks for a center point, which I selected using object snapping on the circle. Then I chose 12 objects to [fill the circle]() more (default was 6).
