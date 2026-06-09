@@ -557,7 +557,7 @@ Key Takeaways:
 
   **Using Draw Order to properly Display Gradients and Hatches**
   * Selecting the gradient and hatching on the metal plate by left clicking, we can then right click and select "draw order".
-  * I sent the gradient to the back so the hatching appears [overlayed on the gradient]().
+  * I sent the gradient to the back so the hatching appears [overlayed on the gradient](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/095dd2a61c31307aee0151a1c04d0cf74a554f4f/Hatching%20and%20Gradients/Using%20Draw%20Order.png).
   * This can apply to hatchings, gradients, or even objects as well.
 
   **Editing Gradients and Hatchings**
