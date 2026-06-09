@@ -527,3 +527,47 @@ Key Takeaways:
 
 </details>
 </details>
+
+<details>
+<summary> 10. Hatching and Gradients </summary>
+
+Key Takeaways:
+
+* Learned how to place hatching in a section view to highlight what has been sliced.
+* Learned how to add color gradients to enhance mechanical views.
+* Learned how to reorder the gradient and hatching objects so gradient is below the hatching.
+* Learned how to edit gradients and hatchings to space them out and use a cylindrical gradient.  
+
+<details>
+<summary> MetalPlate_001.dwg - Hatching and Gradients </summary>
+  > MetalPlate_001.dwg is a mechanical diagram of a metal plate, with section view, side view, plan view, and dimensions.
+
+  **Using Hatch to Highlight Areas**
+  * Made sure I was on the "hatching" layer, and the pattern was "ANSI31".
+  * If you select "Create Separate Hatches" in the options panel, you can create distinct hatches in areas- good to know, but we aren't using it for this.
+  * Hatched the areas that are being [cut through in the section view](), leaving the center alone where the filleted hole is.
+  * Did a sanity check to make sure the hatching created is all one object, and [it is]().
+
+  **Using the Gradient Command for Enhanced Colors**
+  * Ensured I was on the gradient fill layer, in general want it on a separate layer for independent freeze/thaw control.
+  * We used the linear gradient pattern, and changed the angle to 90 degrees so its a vertical gradient.
+  * Changes the colors from blue/yellow to a gray/bluish to make it appear metallic and [applied the gradient]().
+  * But now, the hatch pattern is behind the gradient fill, which we will address in a later section.
+  * Added the gradient to the [side view]() as well.
+
+  **Using Draw Order to properly Display Gradients and Hatches**
+  * Selecting the gradient and hatching on the metal plate by left clicking, we can then right click and select "draw order".
+  * I sent the gradient to the back so the hatching appears [overlayed on the gradient]().
+  * This can apply to hatchings, gradients, or even objects as well.
+
+  **Editing Gradients and Hatchings**
+  * How we can change the settings in gradients and hatchings in our drawings.
+  * Going into the layers and freezing the gradient layer, I made sure I was on the Hatching layer.
+  * Then, changed the scale from 1 to 2.5 to make the [hatching more spaced out]().
+  * To have some fun with the gradient, I added a cylindrical gradient to the plan view to make it [look metallic](), using similar steps from previous sections.
+    * I selected the Plan view object with the gradient tool, chose GR_CYLIN, changed the angle to 45 degrees, and used a gray/dark gray color combination.
+    * Then, I made sure the gradient was sent to the back so the dimensions can still be easily read. 
+
+  
+</details>
+</details>
