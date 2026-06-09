@@ -551,7 +551,7 @@ Key Takeaways:
   **Using the Gradient Command for Enhanced Colors**
   * Ensured I was on the gradient fill layer, in general want it on a separate layer for independent freeze/thaw control.
   * We used the linear gradient pattern, and changed the angle to 90 degrees so its a vertical gradient.
-  * Changes the colors from blue/yellow to a gray/bluish to make it appear metallic and [applied the gradient]().
+  * Changed the colors from blue/yellow to a gray/bluish to make it appear metallic and [applied the gradient](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/391f0af5f53f3d65bb87c18fe6a171be4b880c71/Hatching%20and%20Gradients/Adding%20the%20Gradient%20to%20Section%20View.png).
   * But now, the hatch pattern is behind the gradient fill, which we will address in a later section.
   * Added the gradient to the [side view]() as well.
 
