@@ -521,7 +521,7 @@ Key Takeaways:
   * But now, the partitions do not match to the carpet line so we will be utilizing stretch on the partitions.
     * Note, NOT available on the shortcut menu- need the modify panel to access.
     * Also need to use selection window (crossing) to highlight the bottom of the partition.
-  * I used the stretch command and made a crossing window, then stretched the [partition to the carpetline](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d49ae3b939171f9570c679b211006187158b0a08/Modifying%20Objects/Stretching%20the%20Partition.png). I repeated for the other partition on the [other cubicle partition](). 
+  * I used the stretch command and made a crossing window, then stretched the [partition to the carpetline](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d49ae3b939171f9570c679b211006187158b0a08/Modifying%20Objects/Stretching%20the%20Partition.png). I repeated for the other partition on the [other cubicle partition](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/9218a74b54ea8d9763aacb7777e40a12321967ae/Modifying%20Objects/Both%20Cubicle%20Partitions%20Done.png). 
 
 </details>
 </details>
