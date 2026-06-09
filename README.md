@@ -513,6 +513,15 @@ Key Takeaways:
     * Note, you can use the [divide and measure tool](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6d0d9cc0aff0dd0a4984c739537ec2ae1a756e0c/Modifying%20Objects/Spine%20Array%202.png) in the array ribbon itself!
     * Can also use the grip to make the distance smaller or bigger (more or less dense). 
 
-  
+  **Using Stretch and Lengthen**
+  * In the office layout, we are adding carpet for the cubicles.
+  * We could use extend, but we will explore another command called lengthen on the Modify flyout (pointy line with dot).
+  * Clicking on the carpet line with lengthen, there is delta, percent, total, and dynamic.
+  * I used dynamic, and simply snapped it to the end of the [wall intersection]().
+  * But now, the partitions do not match to the carpet line so we will be utilizing stretch on the partitions.
+    * Note, NOT available on the shortcut menu- need the modify panel to access.
+    * Also need to use selection window (crossing) to highlight the bottom of the partition.
+  * I used the stretch command and made a crossing window, then stretched the [partition to the carpetline](). I repeated for the other partition on the [other cubicle partition](). 
+
 </details>
 </details>
