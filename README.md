@@ -564,10 +564,9 @@ Key Takeaways:
   * How we can change the settings in gradients and hatchings in our drawings.
   * Going into the layers and freezing the gradient layer, I made sure I was on the Hatching layer.
   * Then, changed the scale from 1 to 2.5 to make the [hatching more spaced out](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7db1b8f1297fa258c4bf8c2a45e5f89c9e288e26/Hatching%20and%20Gradients/Editing%20the%20Hatching%20Scale.png).
-  * To have some fun with the gradient, I added a cylindrical gradient to the plan view to make it [look metallic](), using similar steps from previous sections.
+  * To have some fun with the gradient, I added a cylindrical gradient to the plan view to make it [look metallic](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/e797f3dd155f1d68975ff0bfe1411ba4348e0378/Hatching%20and%20Gradients/Plan%20View%20Gradient.png), using similar steps from previous sections.
     * I selected the Plan view object with the gradient tool, chose GR_CYLIN, changed the angle to 45 degrees, and used a gray/dark gray color combination.
     * Then, I made sure the gradient was sent to the back so the dimensions can still be easily read. 
-
-  
+ 
 </details>
 </details>
