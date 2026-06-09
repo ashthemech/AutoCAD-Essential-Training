@@ -545,7 +545,7 @@ Key Takeaways:
   **Using Hatch to Highlight Areas**
   * Made sure I was on the "hatching" layer, and the pattern was "ANSI31".
   * If you select "Create Separate Hatches" in the options panel, you can create distinct hatches in areas- good to know, but we aren't using it for this.
-  * Hatched the areas that are being [cut through in the section view](), leaving the center alone where the filleted hole is.
+  * Hatched the areas that are being [cut through in the section view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4b66a4e9e0b9909e56b3372bc2dfa03bcd81c616/Hatching%20and%20Gradients/Hatching%20the%20Section%20View.png), leaving the center alone where the filleted hole is.
   * Did a sanity check to make sure the hatching created is all one object, and [it is]().
 
   **Using the Gradient Command for Enhanced Colors**
