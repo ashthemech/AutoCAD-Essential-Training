@@ -517,7 +517,7 @@ Key Takeaways:
   * In the office layout, we are adding carpet for the cubicles.
   * We could use extend, but we will explore another command called lengthen on the Modify flyout (pointy line with dot).
   * Clicking on the carpet line with lengthen, there is delta, percent, total, and dynamic.
-  * I used dynamic, and simply snapped it to the end of the [wall intersection]().
+  * I used dynamic, and simply snapped it to the end of the [wall intersection](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3148c33320de29b07dcdd941efdd41bb321ca55a/Modifying%20Objects/Lengthening%20the%20Carpet%20Line.png).
   * But now, the partitions do not match to the carpet line so we will be utilizing stretch on the partitions.
     * Note, NOT available on the shortcut menu- need the modify panel to access.
     * Also need to use selection window (crossing) to highlight the bottom of the partition.
