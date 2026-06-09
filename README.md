@@ -545,8 +545,8 @@ Key Takeaways:
   **Using Hatch to Highlight Areas**
   * Made sure I was on the "hatching" layer, and the pattern was "ANSI31".
   * If you select "Create Separate Hatches" in the options panel, you can create distinct hatches in areas- good to know, but we aren't using it for this.
-  * Hatched the areas that are being [cut through in the section view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/7acf95e489f034a8b514e270bc961912ed94083d/Hatching%20and%20Gradients/Hatching%20the%20Side%20View.png), leaving the center alone where the filleted hole is.
-  * Did a sanity check to make sure the hatching created is all one object, and [it is](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/9ca691684587aa7b1642bfdc5ebb16f67bb508cb/Hatching%20and%20Gradients/Sanity%20Check%20on%20Side%20View%20Hatching.png).
+  * Hatched the areas that are being [cut through in the section view](), leaving the center alone where the filleted hole is.
+  * Did a sanity check to make sure the hatching created is all one object, and [it is]().
 
   **Using the Gradient Command for Enhanced Colors**
   * Ensured I was on the gradient fill layer, in general want it on a separate layer for independent freeze/thaw control.
