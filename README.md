@@ -590,7 +590,7 @@ Key Takeaways:
 
   **Single Line and MultiLine Text**
   * Made sure I was on the correct layer of "Text".
-  * Justified to Middle Left, set rotation to 0 degrees and labeled the ["Section View"]().
+  * Justified to Middle Left, set rotation to 0 degrees and labeled the ["Section View"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d121b84816a4ebe055ea4d9f8433db758a77faa5/Annotating%20Designs/Section%20View%20Label.png).
   * I copied the "Section View" text and added it to the right of the side view and plan view.
   * Then, I edited the texts on each to [label accordingly]() "Side View" and "Plan View".
   * I switched the tab to the "Plan View" Layout, and added a [note block]() to communicate notes in the layout.
