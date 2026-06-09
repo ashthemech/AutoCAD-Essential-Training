@@ -502,7 +502,17 @@ Key Takeaways:
     *Note for this, it is called "cutting edge" instead of "boundary".
 
   **Creating and Using Arrays**
-  * 
+  * Now in the plants layer, utilize the array tools to modify the plans object.
+  * Array is essentially a copy command, but with many variables to copy objects more effectively.
+  * Using the [rectangular array]() in the modify panel, I built a [privacy screen of plants]() for the decking with 10 rows and 2 columns. with spacing of 650.
+  * In later versions of AutoCAD, arrays become associative- the array becomes all one object. Makes it easier to change layers if necessary.
+  * Using a similar process for the circular landscaping in the deck, I used the polar array this time to fit to that inner circle.
+  * This time it asks for a center point, which I selected using object snapping on the circle. Then I chose 12 objects to [fill the circle]() more (default was 6).
+  * Again, this is an associative array but a polar one.
+  * Now, a path array along a spline using the ["path" array]() tool.
+    * Note, you can use the [divide and measure tool]() in the array ribbon itself!
+    * Can also use the grip to make the distance smaller or bigger (more or less dense). 
+
   
 </details>
 </details>
