@@ -390,6 +390,8 @@ Key Takeaways:
   * Reviewed how to use the divide and measure commands to place nodes and copy plants along set distances on a line.
   * Learned how to explode polylines and reconnect them back together and how to edit spline verticies.
   * Learned how to use Trim and Extend with boundary/cutting edges and fence tool.
+  * Learned how to create an array of objects in rectantular, polar, and path formats.
+  * Learned how to use stretch and lengthen to modify objects and lines instead of using extend.
 
 <details>
 <summary> OfficeLayout.dwg - Modifying Objects </summary>
