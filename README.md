@@ -553,7 +553,7 @@ Key Takeaways:
   * We used the linear gradient pattern, and changed the angle to 90 degrees so its a vertical gradient.
   * Changed the colors from blue/yellow to a gray/bluish to make it appear metallic and [applied the gradient](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/391f0af5f53f3d65bb87c18fe6a171be4b880c71/Hatching%20and%20Gradients/Adding%20the%20Gradient%20to%20Section%20View.png).
   * But now, the hatch pattern is behind the gradient fill, which we will address in a later section.
-  * Added the gradient to the [side view]() as well.
+  * Added the gradient to the [side view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/88e399411e95f3bb16ffd25a083d367b734dbb26/Hatching%20and%20Gradients/Adding%20the%20Gradient%20to%20Side%20View.png) as well.
 
   **Using Draw Order to properly Display Gradients and Hatches**
   * Selecting the gradient and hatching on the metal plate by left clicking, we can then right click and select "draw order".
