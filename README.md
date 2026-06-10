@@ -646,7 +646,7 @@ Key Takeaways:
   * Used standard cell style settings, and placed under the [Side View](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d84cad2656d9b4f425a5f2ad30e870d2eb3be8af/Annotating%20Designs/Placing%20a%20Table.png).
   * After placing, the multiline text editor kicks in automatically.
   * Added title, hole type number, radius, and diameter information in the table.
-    * Note, you can highlight cells and it will open the [cell editor](). Changed to "middle alignment" in the alignment drop down. 
+    * Note, you can highlight cells and it will open the [cell editor](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/433c1cbee6488f86b25ea94912ea9cb6b69c31f4/Annotating%20Designs/Cell%20Editor.png). Changed to "middle alignment" in the alignment drop down. 
   * To edit the information in the cell, double click the cell and it will bring the text editor back in.
   * The Hole Type information is not very descriptive, so I added "Bolt hole" and "Slotted hole" in the [Hole Type No column]().
     * But, remember how we formatted the table to have "data"? An [action screen will pop up](), and we can click "change data type" to relieve this.
