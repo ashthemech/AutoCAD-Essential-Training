@@ -730,23 +730,40 @@ Key Takeaways:
 </details>  
 </details>
 
+<details>
+<summary> 13. Object and Layer Properties </summary>
+
+  Key Takeaways:
+  *  
+
+<details>
+ <summary> GND Floor Plan_REV5.dwg - Objects & Layers </summary> 
+  > GND Floor Plan_REV5.dwg is the ground floor of the office space used in previous modules, with conference rooms, bike racks, bathrooms, etc.
+
+  **Working with Object Properties**
+  * Zooming into the table in the landscape area, we can see that it is inheriting the properties of the layer in linetype,lineweight and color.
+  * We can change the color, lineweight and linetype by going into the properties panel, and the object will update but it is still on the same layer.
+  * The idea of "ByLayer" is that it allows you to set properties of an object to the properties of that layer.
+  * There might be hundreds of objects in a drawing using that layer, and it's a pain to go in and manually change all of the individual object properties.
+  * Instead, you can change the properties of all those objects on the layer in one swift motion in the layer properties panel.
+  * Properties of an object can be individual or set to properties of the entire layer.
+
+  **Changing the Linetype Scale**
+  * Looking at the gridline properties, we notice that the Linetype is set to [individual]() instead of Bylayer.
+  * Going to use the tool called select similar by clicking on a gridline, then right clicking and clicking "select similar".
+  * This selects all of the gridlines, then going to the properties panel can select ["ByLayer"]().
+  * But then we lose our dashes! Time to go into the Layer properties manager and [correct that](). Then we have our grid line linetype back for [our grid]().
+  * But now, when we zoom out they still look like continuous lines, so let's change the Linetype scale (LT Scale).
+    * Be careful here, if you look up LT Scale in the dyn input, it will change for the whole drawing- we only want it for this layer.
+  * Instead, we select a grid line and use select similar again, then go into their properties and change the [LT scale to 20]().
+  * Now we have much more [obvious grid lines]() when the drawing is in extended zoom.
+
+  **Using Hide and Isolate**
+  * 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+</details>
+</details>
