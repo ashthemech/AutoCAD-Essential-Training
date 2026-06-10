@@ -577,7 +577,9 @@ Key Takeaways:
 Key Takeaways:
 
 * Reviewed how to create a new text style templated from a previous style.
-* Reviewed how to add text to drawings and layouts in single line and multiline format. 
+* Reviewed how to add text to drawings and layouts in single line and multiline format.
+* Reviewed how to create a dimension style from an existing one and alter the settings.
+* Reviewed adding dimensions annotatively with the viewport scales, adding linear, diameter, and radius dimensions. 
 
 <details>
 <summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
@@ -594,6 +596,30 @@ Key Takeaways:
   * I copied the ["Section View"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/194623cb7d10f120a126a1b9218f8c362d5f5a18/Annotating%20Designs/Copying%20Text.png) text and added it to the right of the side view and plan view.
   * Then, I edited the texts on each to [label accordingly](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/c940b388ca7e0bd5ae64bcaef155c86f992fe0c5/Annotating%20Designs/Labeling%20Views.png) "Side View" and "Plan View".
   * I switched the tab to the "Plan View" Layout, and added a [note block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a1e8980fe9c253d2e33fb961c78077862ba659ff/Annotating%20Designs/Adding%20a%20Note%20Block.png) to communicate notes in the layout.
+
+  **Creating and Using Dimension Styles**
+  * Made sure I was on the dimensions layer.
+  * Created a new annotation sytle called "Training_ANNO" from the Anotative default, using for all dimensions.
+  * Set all of the Dimension Line options to "by layer" so it adopts the properties of the layer it is on, and put baseline spacing to 10mm.
+  * Set all of the Extension Line options to by layer as well.
+  * Set extend beyon dim lines to 2.5 mm, and offset from origin to 4 mm.
+  * Changed leader option to "dot", and arrow size to 3.5 mm, and turned off center marks.
+  * Changed the text style to the preset one for this course (Dims_MODEL), changed text color to by layer and no fill color. 
+  * Changes text height to 3.5 mm and offset from dim line to 1.5 mm.
+  * Changed decimal sperator to period and ticked supress trailing zeros.
+
+  **Adding Dimensions**
+  * Recall, in the Annotate tab you can set a dim layer override to make sure all dimensions using a dimension style are in the dimensions layer.
+  * Recall the little blue symbol next to our text style means it is an annotative style, meaning we need to set the scale to match the viewport.
+    * Going into the Sects & Elevs layout and overing over the viewport, the scale is 1:2, so we need to match that in the model tab.
+  * I placed linear dimensions on the Section [view geometry]().
+    * Note, if you have node snaps "on", dimensions will [node snap]() to existing dimensions but really should be snapping to geometry so I turned that off.
+  * Added some dimensions to the [side view]() as well.
+  * Checking the viewport scale of the Plan View, it is also 1:2 but get in the habit of checking when dimensioning!
+  * Added some [basic dimensions]() to the Plan View following the video.
+
+  **Using Quick Leader**
+  * 
 
 </details>  
 </details>
