@@ -679,7 +679,7 @@ Key Takeaways:
   * Ensured I was on the "A-010-H_ROOM" layer before proceeding, the text layer for rooms in this drawing.
   * We are moving the EL4 name room to be vertical along the left side instead of at the top.
   * Justified the text to "Align", then selected the start point and end point of the new "box" for the text to go in.
-  * But, if we try to [adjust the height](), it doesn't work since we only aligned to the length of the box.
+  * But, if we try to [adjust the height](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/5f88af7273a5e8e89b2f1656c8c860ba3f979bf3/Annotating%20Designs/EL4%20Height%20Problem.png), it doesn't work since we only aligned to the length of the box.
   * [Instead](), we can justify to "middle center", then use midpoint snapping to find the midpoint of the box, set rotation to 90, and change the height to 150 mm.
   * We can finish it off by then deleting the other room label and now we have our text vertically.
 
