@@ -579,7 +579,10 @@ Key Takeaways:
 * Reviewed how to create a new text style templated from a previous style.
 * Reviewed how to add text to drawings and layouts in single line and multiline format.
 * Reviewed how to create a dimension style from an existing one and alter the settings.
-* Reviewed adding dimensions annotatively with the viewport scales, adding linear, diameter, and radius dimensions. 
+* Reviewed adding dimensions annotatively with the viewport scales, adding linear, diameter, and radius dimensions.
+* Reviewed how to use QLEADER for labeling in annotative style, and how to add an outline to the labels.
+* Learned how to create a table style by creating a table style for the types of holes in our drawing.
+* Learned how to add, edit, anc alter data types in a table by adding a "Hole Types" table for the drawing.
 
 <details>
 <summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
@@ -597,21 +600,22 @@ Key Takeaways:
   * Then, I edited the texts on each to [label accordingly](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/c940b388ca7e0bd5ae64bcaef155c86f992fe0c5/Annotating%20Designs/Labeling%20Views.png) "Side View" and "Plan View".
   * I switched the tab to the "Plan View" Layout, and added a [note block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/a1e8980fe9c253d2e33fb961c78077862ba659ff/Annotating%20Designs/Adding%20a%20Note%20Block.png) to communicate notes in the layout.
 
+
   **Creating and Using Dimension Styles**
   * Made sure I was on the dimensions layer.
-  * Created a new annotation sytle called "Training_ANNO" from the Anotative default, using for all dimensions.
+  * Created a new annotation style called "Training_ANNO" from the Annotative default, using for all dimensions.
   * Set all of the Dimension Line options to "by layer" so it adopts the properties of the layer it is on, and put baseline spacing to 10mm.
   * Set all of the Extension Line options to by layer as well.
-  * Set extend beyon dim lines to 2.5 mm, and offset from origin to 4 mm.
+  * Set extend beyond dim lines to 2.5 mm, and offset from origin to 4 mm.
   * Changed leader option to "dot", and arrow size to 3.5 mm, and turned off center marks.
   * Changed the text style to the preset one for this course (Dims_MODEL), changed text color to by layer and no fill color. 
   * Changes text height to 3.5 mm and offset from dim line to 1.5 mm.
-  * Changed decimal sperator to period and ticked supress trailing zeros.
+  * Changed decimal separator to period and ticked suppress trailing zeros.
 
   **Adding Dimensions**
   * Recall, in the Annotate tab you can set a dim layer override to make sure all dimensions using a dimension style are in the dimensions layer.
   * Recall the little blue symbol next to our text style means it is an annotative style, meaning we need to set the scale to match the viewport.
-    * Going into the Sects & Elevs layout and overing over the viewport, the scale is 1:2, so we need to match that in the model tab.
+    * Going into the Sects & Elevs layout and hovering over the viewport, the scale is 1:2, so we need to match that in the model tab.
   * I placed linear dimensions on the Section view geometry.
     * Note, if you have node snaps "on", dimensions will [node snap](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4959dd7057c1cc2c11d50055d3b7e121748e8a87/Annotating%20Designs/Node%20Snapping%20in%20Dimensions.png) to existing dimensions but really should be snapping to geometry so I turned that off.
   * Added some dimensions to the [side view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b736ab8fb4be0310445e0adc3b47a1b31c8fd3e4/Annotating%20Designs/Section%20and%20Side%20View%20Dimensions.png) as well.
@@ -625,7 +629,29 @@ Key Takeaways:
   * Repeating the command for QLEADER for the slotted hole in plan view, you can right click to go into the settings.
     * I checked "frame text" for this one.
     * Note, you can use "reuse next" if you are placing a lot of QLEADER lines!
-  * Added the QLEADER label for the [slotted hole]() in the plan view, this time with the text outlined.
+  * Added the QLEADER label for the [slotted hole](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/407033614aef582630442f0f63512b695b9244d3/Annotating%20Designs/Plan%20View%20Slotted%20Hole%20Label.png) in the plan view, this time with the text outlined.
+
+  **Creating and Using Table Styles**
+  * Can be used to annotate data in drawings in the tables.
+  * We are creating a "holes type table", so we want a table to list those types of holes.
+  * Again in the annotation flyout, we can create a table style.
+    * Note in the Table panel in the Annotate ribbon, you can extract data from the drawing and link data to the drawing.
+  * Created a new table style called "Hole Types", changing text style to Dims_MODEL and text color by layer to be consistent in the title, header, and data sections.
+  * Changed alignment to middle center in data section, as it defaults to top center.
+
+  **Adding a Table to a Drawing**
+  * Note, tables also do not use the dim layer override, so make sure you are on the correct layer!
+  * For now, we are putting it on the "text" layer.
+  * Clicked the "table" button, starting from an empty table, specify an insertion point, columns = 3, width = 75 mm, data rows is 2 and row height of 1.
+  * Used standard cell style settings, and placed under the [Side View]().
+  * After placing, the multiline text editor kicks in automatically.
+  * Added title, hole type number, radius, and diameter information in the table.
+    * Note, you can highlight cells and it will open the [cell editor](). Changed to "middle alignment" in the alignment drop down. 
+  * To edit the information in the cell, double click the cell and it will bring the text editor back in.
+  * The Hole Type information is not very descriptive, so I added "Bolt hole" and "Slotted hole" in the [Hole Type No column]().
+    * But, remember how we formatted the table to have "data"? An [action screen will pop up](), and we can click "change data type" to relieve this.
+  * The table will also display in the [Sections & Elevations layout tab](), which is nice. 
+
 
 </details>  
 </details>
