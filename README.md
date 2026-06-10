@@ -706,7 +706,7 @@ Key Takeaways:
 
   **Breaking and Spacing Dimensions**
   * Going to look at "dim break" and "dim space", where you can add break areas and adjust the spacing of dimensions.
-  * We are going to clean up this area [here]().
+  * We are going to clean up this area [here](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/9c7f98b8c0fd724c395b13b5c45753292ef85f39/More%20Dimensioning%20Techniques/Dimension%20Area%20to%20Clean%20Up.png).
   * I clicked on the dim space tool and selected the [6420, 7501, and 14701](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/efab2613ff45edb2b54ed0416bef3cb10fc90772/More%20Dimensioning%20Techniques/Selecting%20Dimensions%20to%20Space.png). It has an auto setting but be careful, especially with annotative scaling.
   * I entered 250, and it [nicely spaced]() the dimensions, but now we have a bit of a junction on the left.
   * Now, we are going to use "dim break".
