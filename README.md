@@ -752,7 +752,7 @@ Key Takeaways:
   * Looking at the gridline properties, we notice that the Linetype is set to [individual](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/deb6f2b436b6998d1ef34ac86f6db7689f5cc7ff/Object%20and%20Layer%20Properties/Gridline%20Properties.png) instead of Bylayer.
   * Going to use the tool called select similar by clicking on a gridline, then right clicking and clicking "select similar".
   * This selects all of the gridlines, then going to the properties panel can select ["ByLayer"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b7ec3b62e50ae7d8cfabda414ead02fdf811a09d/Object%20and%20Layer%20Properties/Setting%20Gridline%20Properties%20to%20ByLayer.png).
-  * But then we lose our dashes! Time to go into the Layer properties manager and [correct that](). Then we have our grid line linetype back for [our grid]().
+  * But then we lose our dashes! Time to go into the Layer properties manager and [correct that](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/bc581f13378c0a86bb75ed3f8ebc379217588fe5/Object%20and%20Layer%20Properties/Gridline%20Dashes%20Lost.png). Then we have our grid line linetype back for [our grid]().
   * But now, when we zoom out they still look like continuous lines, so let's change the Linetype scale (LT Scale).
     * Be careful here, if you look up LT Scale in the dyn input, it will change for the whole drawing- we only want it for this layer.
   * Instead, we select a grid line and use select similar again, then go into their properties and change the [LT scale to 20]().
