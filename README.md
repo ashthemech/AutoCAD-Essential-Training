@@ -664,7 +664,7 @@ Key Takeaways:
 
   **Working with Multileaders**
   * Clicking on the multileader button in the annotate panel, we can place a multileader.
-  * We place it on one of our bolt holes and drag, then [click to place it]().
+  * We place it on one of our bolt holes and drag, then [click to place it](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/78ea82d8a0cdb3f083effc92510ee833f1b444b0/Annotating%20Designs/Placing%20a%20Multileader.png).
     * Now, it brings us a [dialogue box]() called "Attributes" with "Tag Number" - we want to label it as 1 (to match our data table).
   * So right clicking and repeating MLEADER for another bolt hole, we enter the tag number again for type 1 and repeat for all [bolt holes]().
   * Then, we can add it for our [slotted hole]() but this time labeling it as 2.
