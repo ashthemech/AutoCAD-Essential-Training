@@ -582,7 +582,8 @@ Key Takeaways:
 * Reviewed adding dimensions annotatively with the viewport scales, adding linear, diameter, and radius dimensions.
 * Reviewed how to use QLEADER for labeling in annotative style, and how to add an outline to the labels.
 * Learned how to create a table style by creating a table style for the types of holes in our drawing.
-* Learned how to add, edit, anc alter data types in a table by adding a "Hole Types" table for the drawing.
+* Learned how to add, edit, and alter data types in a table by adding a "Hole Types" table for the drawing.
+* Learned how to create a new multileader style from an existing Annotative template.
 
 <details>
 <summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
@@ -652,10 +653,24 @@ Key Takeaways:
     * But, remember how we formatted the table to have "data"? An [action screen will pop up](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4adacbc2c58db17caec0101112573c037430f291/Annotating%20Designs/Pop%20Up%20Warning.png), and we can click "change data type" to relieve this.
   * The table will also display in the [Sections & Elevations layout tab](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4e33e3fd6454c9c1d3dc298fa1f61bacfb514f7f/Annotating%20Designs/Table%20in%20Layout.png), which is nice.
 
+
   **Creating and Using MultiLeader Styles**
-  * 
+  * So looking at our Plan View, we have 4 bolt holes and 1 slotted hole - we can place leaders to show which is which using multileaders.
+  * On the annotate tab and the annotate layer on the model tab.
+  * We need to set up a multileader style first, they act similar to text styles and dimension styles.
+  * Going into the Multileader style manager, we start with the Annotative style and name this one "Training_ANNO".
+  * Changed multileader type to "block" - we want to use one of the default source blocks, we will be using a circle.
+  * Clicking set current and save, we now have a new multileader style.
 
-
+  **Working with Multileaders**
+  * Clicking on the multileader button in the annotate panel, we can place a multileader.
+  * We place it on one of our bolt holes and drag, then [click to place it]().
+    * Now, it brings us a [dialogue box]() called "Attributes" with "Tag Number" - we want to label it as 1 (to match our data table).
+  * So right clicking and repeating MLEADER for another bolt hole, we enter the tag number again for type 1 and repeat for all [bolt holes]().
+  * Then, we can add it for our [slotted hole]() but this time labeling it as 2.
+  * Note, since we set the spline for the multileader text style, they are easy to distinguish due to that curved line. 
+  * We can also join the bolt hole multileader lines so they just form 1 label between the two by using "align" and [aligning both labels to overlap]().
+  * You can also connect a multileader to an existing one by using the "add multileader" tool, then [selecting where]() to put that dot point.
 
 
 
