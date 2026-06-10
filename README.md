@@ -702,7 +702,7 @@ Key Takeaways:
   **Editing Dimensions and Dimension Overrides**
   * Note - UNO means "Unless noted otherwise", seen on annodation drawings especially for buildings or architectural installations, i.e. tolerances not listed.
   * Going into the properties panel when a dimension is selected, note there is a "text override" option.
-  * Here we put a note ["Measure onsite - <>"](). The <> tells AutoCAD to put the measurement box above it into that <>.
+  * Here we put a note ["Measure onsite - <>"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/2e46a4a7a47fede5d3bb7048aa3c55abbb2d4b40/More%20Dimensioning%20Techniques/Text%20Override%20Properties%20Box.png). The <> tells AutoCAD to put the [measurement box above it into that <>]().
 
 
 
