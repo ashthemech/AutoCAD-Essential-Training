@@ -585,6 +585,7 @@ Key Takeaways:
 * Learned how to add, edit, and alter data types in a table by adding a "Hole Types" table for the drawing.
 * Learned how to create a new multileader style from an existing Annotative template.
 * Learned how to place multileaders, add multileaders, and use the attributes text box.
+* Reviewed how to reposition text using object snapping and midpoint snaping.
 
 <details>
 <summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
@@ -683,6 +684,29 @@ Key Takeaways:
   * [Instead](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/64314743d344a65f1318ca230c222c49ebe1b7ea/Annotating%20Designs/EL4%20Fixed.png), we can justify to "middle center", then use midpoint snapping to find the midpoint of the box, set rotation to 90, and change the height to 150 mm.
   * We can finish it off by then deleting the other room label and now we have our text vertically.
 
+</details>  
+</details>
+
+<details>
+<summary> 12. More Dimensioning Techniques </summary>
+
+  Key Takeaways:
+  * Learned what UNO means and how to use the text override function in the properties panel for dimensions.
+  * 
+
+<details>
+<summary> Gnd Floor Plan.dwg - More Dimensioning Techniques </summary>
+  
+  > Gnd Floor Plan.dwg is an empty floor plan with some landscaping outside, walls, and dimensions for the walls and landscaping.
+
+  **Editing Dimensions and Dimension Overrides**
+  * Note - UNO means "Unless noted otherwise", seen on annodation drawings especially for buildings or architectural installations, i.e. tolerances not listed.
+  * Going into the properties panel when a dimension is selected, note there is a "text override" option.
+  * Here we put a note ["Measure onsite - <>"](). The <> tells AutoCAD to put the measurement box above it into that <>.
+
+
+
+  
 </details>  
 </details>
 
