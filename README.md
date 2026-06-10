@@ -711,7 +711,7 @@ Key Takeaways:
   * I entered 250, and it [nicely spaced](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3746f3700d651aaa257456a415cdc2678283dc16/More%20Dimensioning%20Techniques/Spaced%20Dimensions%20with%20Junction.png) the dimensions, but now we have a bit of a junction on the left.
   * Now, we are going to use "dim break".
   * Using the break tool, I selected 6420 and the 2791, which broke the first selection through the second one.
-  * I repeated the process for the other two dimension limes to break, now the [junction is gone]().
+  * I repeated the process for the other two dimension limes to break, now the [junction is gone](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/dd87bf99778a78f5c92d27e8a2eed874e33e5573/More%20Dimensioning%20Techniques/Junction%20Cleaned%20with%20Dim%20Break.png).
 
   **Using Continue and Baseline**
   * 
