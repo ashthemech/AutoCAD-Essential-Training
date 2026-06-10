@@ -621,7 +621,7 @@ Key Takeaways:
   **Using Quick Leader**
   * We set that "leader" setting in our annotation style to "dot", so we are exploring thta using quick leader.
   * Recall that dim override does NOT APPLY to QLEADER!
-  * Added a label using quick leader to [denote the slotted hole]() in the section view.
+  * Added a label using quick leader to [denote the slotted hole](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3ab9e37f000fe69213a927e5fa69a533fa9267f9/Annotating%20Designs/Section%20View%20Slotted%20Hole%20Label.png) in the section view.
   * Repeating the command for QLEADER for the slotted hole in plan view, you can right click to go into the settings.
     * I checked "frame text" for this one.
     * Note, you can use "reuse next" if you are placing a lot of QLEADER lines!
