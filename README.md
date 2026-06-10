@@ -714,7 +714,13 @@ Key Takeaways:
   * I repeated the process for the other two dimension limes to break, now the [junction is gone](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/dd87bf99778a78f5c92d27e8a2eed874e33e5573/More%20Dimensioning%20Techniques/Junction%20Cleaned%20with%20Dim%20Break.png).
 
   **Using Continue and Baseline**
-  * 
+  * Now going up to the top of the building, we place a linear dimension on the [upper left corner].
+  * Continue and baseline automatically search for the last linear dimension placed, and [continue from there]().
+  * I dimensioned the [rest of that side]() of the building using the continue tool.
+  * Now on the left side of the building, we will do something similar but with baseline.
+  * Again, selected linear and made the first dimension on that [left side]().
+  * The [continued the rest with baseline](), but notice how it used that first dimension line as the baseline for all the others, and is inside/outside specific. 
+
   
 </details>  
 </details>
