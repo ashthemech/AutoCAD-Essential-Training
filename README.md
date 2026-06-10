@@ -584,6 +584,7 @@ Key Takeaways:
 * Learned how to create a table style by creating a table style for the types of holes in our drawing.
 * Learned how to add, edit, and alter data types in a table by adding a "Hole Types" table for the drawing.
 * Learned how to create a new multileader style from an existing Annotative template.
+* Learned how to place multileaders, add multileaders, and use the attributes text box.
 
 <details>
 <summary> 11. MetalPlate_002.dwg - Annotating Designs </summary>
@@ -672,9 +673,15 @@ Key Takeaways:
   * We can also join the bolt hole multileader lines so they just form 1 label between the two by using "align" and [aligning both labels to overlap](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/17cb156d069ee76e5528fc33c577001bda1e1aae/Annotating%20Designs/Aligning%20Overlapping%20Labels.png).
   * You can also connect a multileader to an existing one by using the "add multileader" tool, then [selecting where](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/092089c132362702fdafa7d8a24239b063b4de7e/Annotating%20Designs/Adding%20a%20Multileader.png) to put that dot point. This is a better method than above.
 
-
-
-
+**Aligning Text Precisely and Accurately**
+  > NEW FILE! GND Floor Plan_REV4.dwg - Ground floor plan of an office building with bathrooms, conference rooms, bike stations etc. used in previous modules.
+  * We are going to focus on the little circular table and 4 chairs in the upper left corner of the office.
+  * Ensured I was on the "A-010-H_ROOM" layer before proceeding, the text layer for rooms in this drawing.
+  * We are moving the EL4 name room to be vertical along the left side instead of at the top.
+  * Justified the text to "Align", then selected the start point and end point of the new "box" for the text to go in.
+  * But, if we try to [adjust the height](), it doesn't work since we only aligned to the length of the box.
+  * [Instead](), we can justify to "middle center", then use midpoint snapping to find the midpoint of the box, set rotation to 90, and change the height to 150 mm.
+  * We can finish it off by then deleting the other room label and now we have our text vertically.
 
 </details>  
 </details>
