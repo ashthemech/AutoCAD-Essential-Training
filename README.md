@@ -755,7 +755,7 @@ Key Takeaways:
   * But then we [lose our dashes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/bc581f13378c0a86bb75ed3f8ebc379217588fe5/Object%20and%20Layer%20Properties/Gridline%20Dashes%20Lost.png)! Time to go into the Layer properties manager and [correct that](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/76bc7b9cdfbcee7b4339210e95499971d0fb4e53/Object%20and%20Layer%20Properties/Setting%20Gridline%20Properties%20to%20ByLayer.png). Then we have our grid line linetype back for [our grid](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/957523604794ab7c964d865461ac4caa0a30f9b7/Object%20and%20Layer%20Properties/Dashed%20Gridlines%20in%20Layer%20Property.png).
   * But now, when we zoom out they still look like continuous lines, so let's change the Linetype scale (LT Scale).
     * Be careful here, if you look up LT Scale in the dyn input, it will change for the whole drawing- we only want it for this layer.
-  * Instead, we select a grid line and use select similar again, then go into their properties and change the [LT scale to 20]().
+  * Instead, we select a grid line and use select similar again, then go into their properties and change the [LT scale to 20](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3359205826eaeaa55d40d92afadf63b83b3c4374/Object%20and%20Layer%20Properties/Setting%20Gridline%20Linetype%20Scale.png).
   * Now we have much more [obvious grid lines]() when the drawing is in extended zoom.
 
   **Using Hide and Isolate**
