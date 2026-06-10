@@ -715,7 +715,7 @@ Key Takeaways:
 
   **Using Continue and Baseline**
   * Now going up to the top of the building, we place a linear dimension on the [upper left corner](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/fc115e9cda1ef6d740f98de2f397d097f97e30c8/More%20Dimensioning%20Techniques/First%20Dimension%20for%20Continue.png).
-  * Continue and baseline automatically search for the last linear dimension placed, and [continue from there]().
+  * Continue and baseline automatically search for the last linear dimension placed, and [continue from there](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/955811735b3b16cf8f0be84b3d256f882806c178/More%20Dimensioning%20Techniques/Using%20Continue%20Tool.png).
   * I dimensioned the [rest of that side]() of the building using the continue tool.
   * Now on the left side of the building, we will do something similar but with baseline.
   * Again, selected linear and made the first dimension on that [left side]().
