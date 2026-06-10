@@ -649,7 +649,7 @@ Key Takeaways:
     * Note, you can highlight cells and it will open the [cell editor](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/433c1cbee6488f86b25ea94912ea9cb6b69c31f4/Annotating%20Designs/Cell%20Editor.png). Changed to "middle alignment" in the alignment drop down. 
   * To edit the information in the cell, double click the cell and it will bring the text editor back in.
   * The Hole Type information is not very descriptive, so I added "Bolt hole" and "Slotted hole" in the [Hole Type No column](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3c7277af1dd9d2ba6de37fa49adf123cbb7a1d92/Annotating%20Designs/Finished%20Table.png).
-    * But, remember how we formatted the table to have "data"? An [action screen will pop up](), and we can click "change data type" to relieve this.
+    * But, remember how we formatted the table to have "data"? An [action screen will pop up](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4adacbc2c58db17caec0101112573c037430f291/Annotating%20Designs/Pop%20Up%20Warning.png), and we can click "change data type" to relieve this.
   * The table will also display in the [Sections & Elevations layout tab](), which is nice. 
 
 
