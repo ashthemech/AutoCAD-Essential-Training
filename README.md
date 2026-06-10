@@ -719,7 +719,7 @@ Key Takeaways:
   * I dimensioned the [rest of the top](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/11dfff65a731d5361486c84b9132a23a25d5f97a/More%20Dimensioning%20Techniques/Finishing%20the%20Top%20Dimensions%20with%20Continue.png) of the building using the continue tool.
   * Now on the left side of the building, we will do something similar but with baseline.
   * Again, selected linear and made the first dimension on that left side.
-  * The [continued the rest with baseline](), but notice how it used that first dimension line as the baseline for all the others, and is inside/outside specific. 
+  * The [continued the rest with baseline](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d8833d77f9d6e65c74e215ce0a75cf7de6ba6f43/More%20Dimensioning%20Techniques/Using%20Baselin%20on%20the%20Left%20of%20Building.png), but notice how it used that first dimension line as the baseline for all the others, and is inside/outside specific. 
 
   
 </details>  
