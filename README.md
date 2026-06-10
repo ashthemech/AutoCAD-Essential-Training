@@ -616,7 +616,7 @@ Key Takeaways:
     * Note, if you have node snaps "on", dimensions will [node snap](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4959dd7057c1cc2c11d50055d3b7e121748e8a87/Annotating%20Designs/Node%20Snapping%20in%20Dimensions.png) to existing dimensions but really should be snapping to geometry so I turned that off.
   * Added some dimensions to the [side view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b736ab8fb4be0310445e0adc3b47a1b31c8fd3e4/Annotating%20Designs/Section%20and%20Side%20View%20Dimensions.png) as well.
   * Checking the viewport scale of the Plan View, it is also 1:2 but get in the habit of checking when dimensioning!
-  * Added some [basic dimensions]() to the Plan View following the video.
+  * Added some [basic dimensions](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/573d291df53c279fd16b843b95acc3ce0bf1e818/Annotating%20Designs/Plan%20View%20Dimensions.png) to the Plan View following the video.
 
   **Using Quick Leader**
   * 
