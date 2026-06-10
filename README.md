@@ -643,7 +643,7 @@ Key Takeaways:
   * Note, tables also do not use the dim layer override, so make sure you are on the correct layer!
   * For now, we are putting it on the "text" layer.
   * Clicked the "table" button, starting from an empty table, specify an insertion point, columns = 3, width = 75 mm, data rows is 2 and row height of 1.
-  * Used standard cell style settings, and placed under the [Side View]().
+  * Used standard cell style settings, and placed under the [Side View](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d84cad2656d9b4f425a5f2ad30e870d2eb3be8af/Annotating%20Designs/Placing%20a%20Table.png).
   * After placing, the multiline text editor kicks in automatically.
   * Added title, hole type number, radius, and diameter information in the table.
     * Note, you can highlight cells and it will open the [cell editor](). Changed to "middle alignment" in the alignment drop down. 
