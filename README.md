@@ -756,7 +756,7 @@ Key Takeaways:
   * But now, when we zoom out they still look like continuous lines, so let's change the Linetype scale (LT Scale).
     * Be careful here, if you look up LT Scale in the dyn input, it will change for the whole drawing- we only want it for this layer.
   * Instead, we select a grid line and use select similar again, then go into their properties and change the [LT scale to 20](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3359205826eaeaa55d40d92afadf63b83b3c4374/Object%20and%20Layer%20Properties/Setting%20Gridline%20Linetype%20Scale.png).
-  * Now we have much more [obvious grid lines]() when the drawing is in extended zoom.
+  * Now we have much more [obvious grid lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/63f083999cc63b516626acd4cebc4f5e1000d5a6/Object%20and%20Layer%20Properties/Corrected%20gridline%20LT%20Scale.png) when the drawing is in extended zoom.
 
   **Using Hide and Isolate**
   * 
