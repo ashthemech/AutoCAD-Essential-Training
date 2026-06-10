@@ -666,7 +666,7 @@ Key Takeaways:
   * Clicking on the multileader button in the annotate panel, we can place a multileader.
   * We place it on one of our bolt holes and drag, then [click to place it](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/78ea82d8a0cdb3f083effc92510ee833f1b444b0/Annotating%20Designs/Placing%20a%20Multileader.png).
     * Now, it brings us a [dialogue box](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/1a82b1bd37da04926ae92d4edcad319979d00f3d/Annotating%20Designs/Multileader%20Atrribute%20Box.png) called "Attributes" with "Tag Number" - we want to label it as 1 (to match our data table).
-  * So right clicking and repeating MLEADER for another bolt hole, we enter the tag number again for type 1 and repeat for all [bolt holes]().
+  * So right clicking and repeating MLEADER for another bolt hole, we enter the tag number again for type 1 and repeat for all [bolt holes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/eb1f6563c1e827abcfceb2722d79325897e3948e/Annotating%20Designs/All%20Bolt%20Holes%20Numbered.png).
   * Then, we can add it for our [slotted hole]() but this time labeling it as 2.
   * Note, since we set the spline for the multileader text style, they are easy to distinguish due to that curved line. 
   * We can also join the bolt hole multileader lines so they just form 1 label between the two by using "align" and [aligning both labels to overlap]().
