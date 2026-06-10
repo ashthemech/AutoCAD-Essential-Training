@@ -749,7 +749,7 @@ Key Takeaways:
   * Properties of an object can be individual or set to properties of the entire layer.
 
   **Changing the Linetype Scale**
-  * Looking at the gridline properties, we notice that the Linetype is set to [individual]() instead of Bylayer.
+  * Looking at the gridline properties, we notice that the Linetype is set to [individual](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/deb6f2b436b6998d1ef34ac86f6db7689f5cc7ff/Object%20and%20Layer%20Properties/Gridline%20Properties.png) instead of Bylayer.
   * Going to use the tool called select similar by clicking on a gridline, then right clicking and clicking "select similar".
   * This selects all of the gridlines, then going to the properties panel can select ["ByLayer"]().
   * But then we lose our dashes! Time to go into the Layer properties manager and [correct that](). Then we have our grid line linetype back for [our grid]().
