@@ -692,7 +692,7 @@ Key Takeaways:
 
   Key Takeaways:
   * Learned what UNO means and how to use the text override function in the properties panel for dimensions.
-  * 
+  * Learned how to use the dim space and dim break to clean up dimension lines in the same area of the drawing.
 
 <details>
 <summary> Gnd Floor Plan.dwg - More Dimensioning Techniques </summary>
@@ -700,12 +700,21 @@ Key Takeaways:
   > Gnd Floor Plan.dwg is an empty floor plan with some landscaping outside, walls, and dimensions for the walls and landscaping.
 
   **Editing Dimensions and Dimension Overrides**
-  * Note - UNO means "Unless noted otherwise", seen on annodation drawings especially for buildings or architectural installations, i.e. tolerances not listed.
+  * Note - UNO means "Unless noted otherwise", seen on annotation drawings especially for buildings or architectural installations, i.e. tolerances not listed.
   * Going into the properties panel when a dimension is selected, note there is a "text override" option.
   * Here we put a note ["Measure onsite - <>"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/2e46a4a7a47fede5d3bb7048aa3c55abbb2d4b40/More%20Dimensioning%20Techniques/Text%20Override%20Properties%20Box.png). The <> tells AutoCAD to put the [measurement box above it into that <>](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/776e3290ca796878dba2d88f7740d145ef0cc8f0/More%20Dimensioning%20Techniques/Text%20Override%20Result.png).
 
+  **Breaking and Spacing Dimensions**
+  * Going to look at "dim break" and "dim space", where you can add break areas and adjust the spacing of dimensions.
+  * We are going to clean up this area [here]().
+  * I clicked on the dim space tool and selected the [6420, 7501, and 14701](). It has an auto setting but be careful, especially with annotative scaling.
+  * I entered 250, and it [nicely spaced]() the dimensions, but now we have a bit of a junction on the left.
+  * Now, we are going to use "dim break".
+  * Using the break tool, I selected 6420 and the 2791, which broke the first selection through the second one.
+  * I repeated the process for the other two dimension limes to break, now the [junction is gone]().
 
-
+  **Using Continue and Baseline**
+  * 
   
 </details>  
 </details>
