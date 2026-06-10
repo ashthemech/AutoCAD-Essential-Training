@@ -619,7 +619,13 @@ Key Takeaways:
   * Added some [basic dimensions](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/573d291df53c279fd16b843b95acc3ce0bf1e818/Annotating%20Designs/Plan%20View%20Dimensions.png) to the Plan View following the video.
 
   **Using Quick Leader**
-  * 
+  * We set that "leader" setting in our annotation style to "dot", so we are exploring thta using quick leader.
+  * Recall that dim override does NOT APPLY to QLEADER!
+  * Added a label using quick leader to [denote the slotted hole]() in the section view.
+  * Repeating the command for QLEADER for the slotted hole in plan view, you can right click to go into the settings.
+    * I checked "frame text" for this one.
+    * Note, you can use "reuse next" if you are placing a lot of QLEADER lines!
+  * Added the QLEADER label for the [slotted hole]() in the plan view, this time with the text outlined.
 
 </details>  
 </details>
