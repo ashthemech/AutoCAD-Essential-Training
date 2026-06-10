@@ -724,9 +724,8 @@ Key Takeaways:
   **Using Automatic Dimensioning**
   * The icon with the sun on it in the dimensions tab lets you create multiple kinds of dimensions in a single session, eliminating the need to select dimension type.
   * AutoCAD can recognize the geometry and select the appropriate type - pretty neat!
-  * Put a [linear dimension](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6f4697cfb8c25dbe57738abe0036390608103b62/More%20Dimensioning%20Techniques/Linear%20Dimension%20using%20DIM.png) for the landscaping line and immediately after a [radius dimension]() for the bush.
+  * Put a [linear dimension](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/6f4697cfb8c25dbe57738abe0036390608103b62/More%20Dimensioning%20Techniques/Linear%20Dimension%20using%20DIM.png) for the landscaping line and immediately after a [radius dimension](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/1759f1545f478bcb9b26bed97ffc51a3437727dd/More%20Dimensioning%20Techniques/Radius%20Dimension%20using%20DIM.png) for the bush.
   * Can also right click at any time to select what kind of dimension you want.
-
   
 </details>  
 </details>
