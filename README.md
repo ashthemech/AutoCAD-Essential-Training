@@ -669,8 +669,8 @@ Key Takeaways:
   * So right clicking and repeating MLEADER for another bolt hole, we enter the tag number again for type 1 and repeat for all [bolt holes](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/eb1f6563c1e827abcfceb2722d79325897e3948e/Annotating%20Designs/All%20Bolt%20Holes%20Numbered.png).
   * Then, we can add it for our [slotted hole](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/db84b484e7afb1a46d5a1b538de6574f91e30c2b/Annotating%20Designs/Slotted%20Hole%20Labeled.png) but this time labeling it as 2.
   * Note, since we set the spline for the multileader text style, they are easy to distinguish due to that curved line. 
-  * We can also join the bolt hole multileader lines so they just form 1 label between the two by using "align" and [aligning both labels to overlap]().
-  * You can also connect a multileader to an existing one by using the "add multileader" tool, then [selecting where]() to put that dot point.
+  * We can also join the bolt hole multileader lines so they just form 1 label between the two by using "align" and [aligning both labels to overlap](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/17cb156d069ee76e5528fc33c577001bda1e1aae/Annotating%20Designs/Aligning%20Overlapping%20Labels.png).
+  * You can also connect a multileader to an existing one by using the "add multileader" tool, then [selecting where]() to put that dot point. This is a better methos than above.
 
 
 
