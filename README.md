@@ -803,7 +803,7 @@ Key Takeaways:
 
   Key Takeaways:
   * Learned how to navigate the groups panel and create a new group in the group manager.
-  * 
+  * Learned how to create a new block from existing blocks using the Create Block tool. 
 
 <details>
 <summary> New Office Project.dwg - Reusing Content </summary> 
@@ -818,7 +818,19 @@ Key Takeaways:
   * Created the new Bins group by selecting "new" in the manager and then using a crossing window to select all the bins, and now [they are grouped]().
   * Have Group Edit and Ungroup - note groups do not have a shortcut menu unless you select group edit. 
 
-
+  **Creating and Inserting a Block into a Drawing**
+  * You can create blocks of blocks in AutoCAD, basically individual blocks can be made into another block (also called a nested block).
+  * Zooming in on the [executive desk](), we are going to create a workstation block that includes a desk, chair, plant, and computer.
+  * I created a layer for our stations called "Workstations".
+  * But, the blocks we want currently are on their respective layers, so I selected all of the workstation blocks and moved them to layer 0.
+    * We do this so that when we create a block and bring it into the drawing, it will automatically assume the current layer (workstations).
+  * On the insert ribbon, I clicked on Create Block which opens a Block Definition dialogue box.
+  * I used pick point to specify the endpoint of the existing desk in the lower left corner of the cubicle.
+  * Then I selected the objects to add into our block - the chair, desk, PC, and plant.
+  * I selected "delete" in the Objects tab to delete the objects (but the block will remain in the drawing).
+  * I made sure scale uniformly and allow exploding was ticked, then I could hit ok to [create the block]().
+  * Everything disappears! But do not panic, we just have a new block in the .dwg file (good time to save the drawing).
+  * Then, we go to insert and we can see the [workstation block](), and place it in the [executive office](). 
   
 </details>
 </details>
