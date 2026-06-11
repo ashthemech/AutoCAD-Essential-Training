@@ -857,7 +857,7 @@ Key Takeaways:
   **Using Explode with Blocks**
   * Note, only available if you ticked "Allow explode" option when you were creating your block.
   * Especially useful for blocks with nested blocks in them, as you can explode a block back into its nested block.
-  * Went into the [left cubicle]() and exploded the workstation to put it back into its [individual blocks]().
+  * Went into the [left cubicle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f1f9dbad1ea646f69cfaa41d3002c8d09325a5f3/Reusing%20Content/Workstation%20Block.png) and exploded the workstation to put it back into its [individual blocks](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/f1f9dbad1ea646f69cfaa41d3002c8d09325a5f3/Reusing%20Content/Exploded%20Workstation%20Block.png).
   * When you explode a block to all of its original objects, note it will go back to its original layer.
   * If you have a very complex block, like the plants know it can make the DWG file very heavy!
 
