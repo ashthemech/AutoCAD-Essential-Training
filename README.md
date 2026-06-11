@@ -836,13 +836,13 @@ Key Takeaways:
   * There is a thing in AutoCAD called the "blocks pallet".
   * First, I erased the other cubicle objects (the desk, plant, PC, chair).
   * Now instead of just using insert, I went into the "block pallet" via the recent blocks dropdown.
-  * Note, you can have [blocks stored in the cloud]() in say a block library, and access them across drawings.
-  * When we try and insert the block in the other cubicles, it wants to [place it how it was made]() (i.e. in the executive office) - we need to rotate it.
-  * We can do that by entering the angle we need to rotate by in the block pallet, and it will [place how we want it oriented]().
-  * Then we can mirror to add the desk object [in the other cubicle]().
+  * Note, you can have [blocks stored in the cloud](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Cloud%20Block%20Storage.png) in say a block library, and access them across drawings.
+  * When we try and insert the block in the other cubicles, it wants to [place it how it was made](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Workstation%20Block%20in%20the%20Wrong%20Orientation.png) (i.e. in the executive office) - we need to rotate it.
+  * We can do that by entering the angle we need to rotate by in the block pallet, and it will [place how we want it oriented](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Rotaing%20Workstation%20in%20Block%20Pallet.png).
+  * Then we can mirror to add the desk object [in the other cubicle](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Mirroring%20Workstation.png).
   * But, the old objects have the old PC blocks and not the new monitor blocks so let's update them.
-  * If we go into "block editor", it opens up a [different view]() where we can edit our workstation block.
-  * I deleted the old PC and added the new monitor, then clicked exit block editor and all of our [workstations were updated]().
+  * If we go into "block editor", it opens up a [different view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Block%20Editor%20View.png) where we can edit our workstation block.
+  * I deleted the old PC and added the new monitor, then clicked exit block editor and all of our [workstations were updated](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Workstations%20with%20Updated%20Monitors.png).
 
   
 </details>
