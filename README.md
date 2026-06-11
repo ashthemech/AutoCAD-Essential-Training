@@ -820,7 +820,7 @@ Key Takeaways:
 
   **Creating and Inserting a Block into a Drawing**
   * You can create blocks of blocks in AutoCAD, basically individual blocks can be made into another block (also called a nested block).
-  * Zooming in on the [executive desk](), we are going to create a workstation block that includes a desk, chair, plant, and computer.
+  * Zooming in on the [executive desk](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/64b319de5dc70c7bdaec06facda74a18d60fbcfe/Reusing%20Content/Executive%20Office%20Seperate%20Blocks.png), we are going to create a workstation block that includes a desk, chair, plant, and computer.
   * I created a layer for our stations called "Workstations".
   * But, the blocks we want currently are on their respective layers, so I selected all of the workstation blocks and moved them to layer 0.
     * We do this so that when we create a block and bring it into the drawing, it will automatically assume the current layer (workstations).
