@@ -803,7 +803,11 @@ Key Takeaways:
 
   Key Takeaways:
   * Learned how to navigate the groups panel and create a new group in the group manager.
-  * Learned how to create a new block from existing blocks using the Create Block tool. 
+  * Learned how to create a new block from existing blocks using the Create Block tool.
+  * Learned how to edit existing blocks in the block editor view.
+  * Learned how to replace blocks using the new BReplace tool.
+  * Learned how to explode nested blocks into their original blocks, and the file size limitations of doing so.
+
 
 <details>
 <summary> New Office Project.dwg - Reusing Content </summary> 
@@ -843,6 +847,19 @@ Key Takeaways:
   * But, the old objects have the old PC blocks and not the new monitor blocks so let's update them.
   * If we go into "block editor", it opens up a [different view](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Block%20Editor%20View.png) where we can edit our workstation block.
   * I deleted the old PC and added the new monitor, then clicked exit block editor and all of our [workstations were updated](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/91b54887387ef5a99d89719217220bfb706072cc/Reusing%20Content/Workstations%20with%20Updated%20Monitors.png).
+
+  **Replacing Blocks**
+  * In AutoCAD 2025+, we have "Block Replace" or BReplace command.
+  * To do this, go in the insert tab and click replace, then the block you want to replace.
+  * Then the AI feature will suggest some blocks to use, or you can press select block.
+    * But be aware, it will place the block on the layer of the previous block. 
+
+  **Using Explode with Blocks**
+  * Note, only available if you ticked "Allow explode" option when you were creating your block.
+  * Especially useful for blocks with nested blocks in them, as you can explode a block back into its nested block.
+  * Went into the [left cubicle]() and exploded the workstation to put it back into its [individual blocks]().
+  * When you explode a block to all of its original objects, note it will go back to its original layer.
+  * If you have a very complex block, like the plants know it can make the DWG file very heavy!
 
   
 </details>
