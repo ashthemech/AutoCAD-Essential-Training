@@ -734,7 +734,9 @@ Key Takeaways:
 <summary> 13. Object and Layer Properties </summary>
 
   Key Takeaways:
-  *  
+  * Learned about individual object properties and object properties grouped by layer.
+  * Learned how to change individual properties into layer properties and correct line type scale in the object properties maanger.
+  * Learned how to use isolate and hide objects to obscure parts of the drawing in congested areas.
 
 <details>
  <summary> GND Floor Plan_REV5.dwg - Objects & Layers </summary> 
@@ -759,7 +761,21 @@ Key Takeaways:
   * Now we have much more [obvious grid lines](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/63f083999cc63b516626acd4cebc4f5e1000d5a6/Object%20and%20Layer%20Properties/Corrected%20gridline%20LT%20Scale.png) when the drawing is in extended zoom.
 
   **Using Hide and Isolate**
-  * 
+  * Physically change the properties of objects in the drawing do you can work quicker and easier.
+  * In the floor plan we are working on, there are some restrooms so we zoom in on those.
+  * We are going to select the objects in the restrooms (toilets, sinks) so they can be hidden, to say work on the walls.
+  * Dragging a window selection across the bathroom, then using the short cut menu we can "hide" or "isolate" objects.
+  * Hiding makes the selected objects go away, while isolate isolates the objects and hides everything else.
+  * To get the hidden objects back, right click again and hit "end object isolation".
+
+
+  **Creating New Layers & Layer Dropdown**
+  * Can create a new layer in the layer properties manager.
+  * I created a new layer called "Landscaping", with a green color (102), continuous line type and set as the current layer.
+  * Now if we hover over the landscaping in the drawing, we see that the landscaping outline is on the site layer really should be on the landscaping layer we just created.
+  * We can select the landscaping outline, and [change the layer]() right in the layer panel in the homebar. And if we hover over it, as can see [it has updated]().
+  * We can delete layers in the Layer Properties Manager by selecting the layer we wish to delete, and hitting the red X.
+
 
 
 
