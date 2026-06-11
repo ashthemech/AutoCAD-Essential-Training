@@ -737,6 +737,7 @@ Key Takeaways:
   * Learned about individual object properties and object properties grouped by layer.
   * Learned how to change individual properties into layer properties and correct line type scale in the object properties maanger.
   * Learned how to use isolate and hide objects to obscure parts of the drawing in congested areas.
+  * Learned how to create a new layer, delete an uneeded layer, and change the layers of objects through the layer panel.
 
 <details>
  <summary> GND Floor Plan_REV5.dwg - Objects & Layers </summary> 
@@ -776,7 +777,22 @@ Key Takeaways:
   * We can select the landscaping outline, and [change the layer](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ae2bcead3eba1af479e270b21b07d26b253bdb0f/Object%20and%20Layer%20Properties/Changing%20the%20Layer%20in%20the%20Panel.png) right in the layer panel in the homebar. And if we hover over it, as can see [it has updated](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/9dc7405f0c72568b7479239143ec7f807f2636a1/Object%20and%20Layer%20Properties/Landscaping%20Layer%20Check.png).
   * We can delete layers in the Layer Properties Manager by selecting the layer we wish to delete, and hitting the red X.
 
+  **Using the Layer Tools**
+  * The Make Current tool allows you to select an object whose layer you want to be working on.
+  * The Match Layer tool allows you to change a selected objects layer to a "destination layer" of a different object.
+  * The Off tool lets you turn off a layer of a selected object, can also use the On tool to do this in reverse.
+  * You also have Freeze and Thaw, note you cannot freeze the current layer you are working on! But, you CAN turn off the current layer.
+  * There are a lot of layer tools, like Layer Walk that lets you see what is only on the selected layers.
 
+  **Working with Layer States**
+  * Allow you to save specific layer settings in each "layer state".
+  * For this, we are going to highlight our Landscaping area, make sure the Layers Panel is pinned out.
+  * Click the drop down on "Unsaved Layer States" and hit Manage Layer States, this opens up to the Layer States Manager.
+  * Created an "EXISTING" layer state to tell AutoCAD that everything as we have it set now is our "Existing" later settings.
+  * Wnt into the landscaping layer and the bike bays layer to [change the color to red]().
+  * Going back into the Layer States Manager, we see that the "Same as DWG" now says no.
+  * Now clicking on new, we can create one called HIGHLIGHT and add the description, and that one says yes it is the [same as the drawing]().
+  * Can tab  between them in the layer states pinout - great to highlight areas that need work or are complete. 
 
 
 
