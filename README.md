@@ -802,6 +802,7 @@ Key Takeaways:
 <summary> 14. Reusing Content </summary> 
 
   Key Takeaways:
+  * Learned how to navigate the groups panel and create a new group in the group manager.
   * 
 
 <details>
@@ -809,7 +810,13 @@ Key Takeaways:
   > New Office Project.dwg is back to our small office layout with the 3 cubicles and reception desk.
   
   **Using Groups with Geometry**
-  * Its helpful to reuse content so you are not creating everything from scratch every time. 
+  * Its helpful to reuse content so you are not creating everything from scratch every time.
+  * Exploring the "Groups Tools" - to do this we are going to zoom in on the [trash bins]() and create a "bins" group.
+  * Groups panel is in the home ribbon, make sure group bounding box is always on. Gives you a boundary around your group.
+  * Best way to create groups is in the Group Manager to give it a name.
+  * In the manager panel as well, as you make a group you can tick "selectable" so they can be selected.
+  * Created the new Bins group by selecting "new" in the manager and then using a crossing window to select all the bins, and now [they are grouped]().
+  * Have Group Edit and Ungroup - note groups do not have a shortcut menu unless you select group edit. 
 
 
   
