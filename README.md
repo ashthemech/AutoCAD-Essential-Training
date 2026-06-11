@@ -773,7 +773,7 @@ Key Takeaways:
   * Can create a new layer in the layer properties manager.
   * I created a new layer called "Landscaping", with a green color (102), continuous line type and set as the current layer.
   * Now if we hover over the landscaping in the drawing, we see that the landscaping outline is on the site layer really should be on the landscaping layer we just created.
-  * We can select the landscaping outline, and [change the layer]() right in the layer panel in the homebar. And if we hover over it, as can see [it has updated]().
+  * We can select the landscaping outline, and [change the layer](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ae2bcead3eba1af479e270b21b07d26b253bdb0f/Object%20and%20Layer%20Properties/Changing%20the%20Layer%20in%20the%20Panel.png) right in the layer panel in the homebar. And if we hover over it, as can see [it has updated]().
   * We can delete layers in the Layer Properties Manager by selecting the layer we wish to delete, and hitting the red X.
 
 
