@@ -789,7 +789,7 @@ Key Takeaways:
   * For this, we are going to highlight our Landscaping area, make sure the Layers Panel is pinned out.
   * Click the drop down on "Unsaved Layer States" and hit Manage Layer States, this opens up to the Layer States Manager.
   * Created an "EXISTING" layer state to tell AutoCAD that everything as we have it set now is our "Existing" later settings.
-  * Wnt into the landscaping layer and the bike bays layer to [change the color to red]().
+  * Wnt into the landscaping layer and the bike bays layer to [change the color to red](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/81cfeeb070a49dde5a978db246ee9d630559270e/Object%20and%20Layer%20Properties/Changing%20Bays-Landscape%20to%20Red.png).
   * Going back into the Layer States Manager, we see that the "Same as DWG" now says no.
   * Now clicking on new, we can create one called HIGHLIGHT and add the description, and that one says yes it is the [same as the drawing]().
   * Can tab  between them in the layer states pinout - great to highlight areas that need work or are complete. 
