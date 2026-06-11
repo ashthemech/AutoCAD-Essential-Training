@@ -735,9 +735,11 @@ Key Takeaways:
 
   Key Takeaways:
   * Learned about individual object properties and object properties grouped by layer.
-  * Learned how to change individual properties into layer properties and correct line type scale in the object properties maanger.
+  * Learned how to change individual properties into layer properties and correct line type scale in the object properties manager.
   * Learned how to use isolate and hide objects to obscure parts of the drawing in congested areas.
-  * Learned how to create a new layer, delete an uneeded layer, and change the layers of objects through the layer panel.
+  * Learned how to create a new layer, delete an unneeded layer, and change the layers of objects through the layer panel.
+  * Explored the various layer tools available on the layers panel, like freeze/thaw, on/off, make current and match.
+  * Learned how to create new layer states and their purpose. 
 
 <details>
  <summary> GND Floor Plan_REV5.dwg - Objects & Layers </summary> 
@@ -769,7 +771,6 @@ Key Takeaways:
   * Hiding makes the selected objects go away, while isolate isolates the objects and hides everything else.
   * To get the hidden objects back, right click again and hit "end object isolation".
 
-
   **Creating New Layers & Layer Dropdown**
   * Can create a new layer in the layer properties manager.
   * I created a new layer called "Landscaping", with a green color (102), continuous line type and set as the current layer.
@@ -789,11 +790,26 @@ Key Takeaways:
   * For this, we are going to highlight our Landscaping area, make sure the Layers Panel is pinned out.
   * Click the drop down on "Unsaved Layer States" and hit Manage Layer States, this opens up to the Layer States Manager.
   * Created an "EXISTING" layer state to tell AutoCAD that everything as we have it set now is our "Existing" later settings.
-  * Wnt into the landscaping layer and the bike bays layer to [change the color to red](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/81cfeeb070a49dde5a978db246ee9d630559270e/Object%20and%20Layer%20Properties/Changing%20Bays-Landscape%20to%20Red.png).
+  * Went into the landscaping layer and the bike bays layer to [change the color to red](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/81cfeeb070a49dde5a978db246ee9d630559270e/Object%20and%20Layer%20Properties/Changing%20Bays-Landscape%20to%20Red.png).
   * Going back into the Layer States Manager, we see that the "Same as DWG" now says no.
   * Now clicking on new, we can create one called HIGHLIGHT and add the description, and that one says yes it is the [same as the drawing](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/36dde93c8f632b3a6b21f4743c934d20cdf89516/Object%20and%20Layer%20Properties/Layer%20States.png).
   * Can tab  between them in the layer states pinout - great to highlight areas that need work or are complete. 
 
+</details>
+</details>
+
+<details>
+<summary> 14. Reusing Content </summary> 
+
+  Key Takeaways:
+  * 
+
+<details>
+<summary> New Office Project.dwg - Reusing Content </summary> 
+  > New Office Project.dwg is back to our small office layout with the 3 cubicles and reception desk.
+  
+  **Using Groups with Geometry**
+  * Its helpful to reuse content so you are not creating everything from scratch every time. 
 
 
   
