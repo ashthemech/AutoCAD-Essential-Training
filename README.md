@@ -830,7 +830,7 @@ Key Takeaways:
   * I selected "delete" in the Objects tab to delete the objects (but the block will remain in the drawing).
   * I made sure scale uniformly and allow exploding was ticked, then I could hit ok to [create the block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4a6b2e9bbb512b2974ee7b09063d1092d5d4c43c/Reusing%20Content/Block%20Definition%20Setup.png).
   * Everything disappears! But do not panic, we just have a new block in the .dwg file (good time to save the drawing).
-  * Then, we go to insert and we can see the [workstation block](), and place it in the [executive office](). 
+  * Then, we go to insert and we can see the [workstation block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b45bf4e37dd3a0df2533e00a9b00ef20c1c82f3b/Reusing%20Content/Workstation%20Block%20in%20Insert%20Panel.png), and place it in the [executive office](). 
   
 </details>
 </details>
