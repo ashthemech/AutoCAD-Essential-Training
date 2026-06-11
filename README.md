@@ -791,7 +791,7 @@ Key Takeaways:
   * Created an "EXISTING" layer state to tell AutoCAD that everything as we have it set now is our "Existing" later settings.
   * Wnt into the landscaping layer and the bike bays layer to [change the color to red](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/81cfeeb070a49dde5a978db246ee9d630559270e/Object%20and%20Layer%20Properties/Changing%20Bays-Landscape%20to%20Red.png).
   * Going back into the Layer States Manager, we see that the "Same as DWG" now says no.
-  * Now clicking on new, we can create one called HIGHLIGHT and add the description, and that one says yes it is the [same as the drawing]().
+  * Now clicking on new, we can create one called HIGHLIGHT and add the description, and that one says yes it is the [same as the drawing](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/36dde93c8f632b3a6b21f4743c934d20cdf89516/Object%20and%20Layer%20Properties/Layer%20States.png).
   * Can tab  between them in the layer states pinout - great to highlight areas that need work or are complete. 
 
 
