@@ -828,7 +828,7 @@ Key Takeaways:
   * I used pick point to specify the endpoint of the existing desk in the lower left corner of the cubicle.
   * Then I selected the objects to add into our block - the chair, desk, PC, and plant.
   * I selected "delete" in the Objects tab to delete the objects (but the block will remain in the drawing).
-  * I made sure scale uniformly and allow exploding was ticked, then I could hit ok to [create the block]().
+  * I made sure scale uniformly and allow exploding was ticked, then I could hit ok to [create the block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4a6b2e9bbb512b2974ee7b09063d1092d5d4c43c/Reusing%20Content/Block%20Definition%20Setup.png).
   * Everything disappears! But do not panic, we just have a new block in the .dwg file (good time to save the drawing).
   * Then, we go to insert and we can see the [workstation block](), and place it in the [executive office](). 
   
