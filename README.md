@@ -830,7 +830,15 @@ Key Takeaways:
   * I selected "delete" in the Objects tab to delete the objects (but the block will remain in the drawing).
   * I made sure scale uniformly and allow exploding was ticked, then I could hit ok to [create the block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/4a6b2e9bbb512b2974ee7b09063d1092d5d4c43c/Reusing%20Content/Block%20Definition%20Setup.png).
   * Everything disappears! But do not panic, we just have a new block in the .dwg file (good time to save the drawing).
-  * Then, we go to insert and we can see the [workstation block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b45bf4e37dd3a0df2533e00a9b00ef20c1c82f3b/Reusing%20Content/Workstation%20Block%20in%20Insert%20Panel.png), and place it in the [executive office](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d4c8d22f22c760a69e3ca030797960d05f7f6398/Reusing%20Content/Workstation%20Block%20in%20Executive%20Office.png). 
+  * Then, we go to insert and we can see the [workstation block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/b45bf4e37dd3a0df2533e00a9b00ef20c1c82f3b/Reusing%20Content/Workstation%20Block%20in%20Insert%20Panel.png), and place it in the [executive office](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/d4c8d22f22c760a69e3ca030797960d05f7f6398/Reusing%20Content/Workstation%20Block%20in%20Executive%20Office.png).
+
+  **Redefining Block Definitions**
+  * There is a thing in AutoCAD called the "blocks pallet".
+  * First, I erased the other cubicles objects (the desk, plant, PC, chair).
+  * Now instead of just using insert, I went into the "block pallet" via the recent blocks dropdown.
+  * Note, you can have [blocks stored in the cloud]() in say a block library, and access them across drawings.
+  * When we try and insert the block in the other cubicles, it wants to [place it how it was made]() (i.e. in the executive office) - we need to rotate it.
+  * 
   
 </details>
 </details>
