@@ -902,3 +902,33 @@ Key Takeaways:
 
 </details>
 </details>
+
+<details>
+<summary> 15. Attributes and Tables </summary> 
+
+  Key Takeaways:
+  * n
+
+<details>
+<summary> Office Workstation.dwg - Attributes and Tables </summary>
+ > Office Workstation.dwg is the previous workstation with a dest, plat, chair, and PC. 
+
+   **Creating a Simple Block with Attributes**
+   * Ensured I was in the "Attributes" layer in the dropdown.
+   * We are going to add some attributes to the workstation, which provide extra information about the Block. Normally text attributes- can be visible or invisible.
+    * Similar to attribute notes in KiCad component parts.
+  * Go to the insert tab on the ribbon, then "define attributes" in the block definition pallet.
+  * First one will be a "tag" called [EMP_NAME]() (employee name). Note, tags cannot have spaces in them.
+  * Prompt will be "Employee name?"
+  * Default will be "Luke Skywalker" - this is just the placeholder.
+  * Changed text style to standard, made sure specify on screen was ticked, and changed text height to 150.
+  * Right clicked and repeat ATTDEF, but tick "align below previous attribution".
+  * This one will be [EMP_NO]() (employee number) with prompt "Employee number?" with default 9999.
+  * Repeating ATTDEF one more time, ticking align below again to add [employee extension number]().
+  * Now staying on insert tab, we go to "create block" and name it Workstation_ATTR.
+  * I picked the point as the top left corner of the desk, selected all the objects & attributes, selected delete in the objects section, and allowed exploding and scale uniformly.
+  * Then in the home tab, chose the workstation layer, then [inserted the new block]().
+  * Note, it [prompts you]() for all of the attributes you created previously prefilled with the defaults. 
+
+</details>
+</details>
