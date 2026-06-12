@@ -861,6 +861,8 @@ Key Takeaways:
   * When you explode a block to all of its original objects, note it will go back to its original layer.
   * If you have a very complex block, like the plants know it can make the DWG file very heavy!
 
+  **Creating a Simple Dynamic Block**
+  * 
   
 </details>
 </details>
