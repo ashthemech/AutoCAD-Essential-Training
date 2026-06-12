@@ -872,13 +872,13 @@ Key Takeaways:
   * Made sure Annotative was off, and allowed exploding and scale uniformly checked on.
   * I opened the door block in the block editor to add the parameters.
   * First was the "flip" parameter, which then asks us to specify a base point for the reflection line (similar to mirror).
-  * I went into the OSNAP override menu and selected "between two points", selecting the midpoint at the [bottom of the door block]().
-  * I chose at 90 degrees, and we have ["Flip state1"]().
+  * I went into the OSNAP override menu and selected "between two points", selecting the midpoint at the [bottom of the door block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Midpoint%20at%20Bottom%20of%20Door%20Block.png).
+  * I chose at 90 degrees, and we have ["Flip state1"](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Flip%20State1.png).
     * Note, you can name your flip states, but in this case we won't.
   * Now we need to add the action to the flip from the "Actions" tab in the Block Authoring pallet.
-    * To do this, we select the flip action, select the flip line, then we need to [select the objects]().
-  * Now we can test our block by clicking the test block button, and we can see that it [flips around]() on that [vertical axis]().
-  * Then we can insert our block back into our drawing on the doors layer, and if you click on the door you can flip it in the [drawing as well]().
+    * To do this, we select the flip action, select the flip line, then we need to [select the objects](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Selecting%20the%20Objects.png).
+  * Now we can test our block by clicking the test block button, and we can see that it [flips around](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Testing%20Flip%20(Left).png) on that [vertical axis](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Testing%20Flip%20(Right).png).
+  * Then we can insert our block back into our drawing on the doors layer, and if you click on the door you can flip it in the [drawing as well](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Dyanmic%20Door%20in%20Dawring%20File.png).
   * You can add actions to any blocks making them "dynamic" blocks.
  
 
