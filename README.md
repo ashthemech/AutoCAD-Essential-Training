@@ -862,7 +862,29 @@ Key Takeaways:
   * If you have a very complex block, like the plants know it can make the DWG file very heavy!
 
   **Creating a Simple Dynamic Block**
-  * 
-  
+  * Going to create a dynamic block so we can reuse it and give it dynamic parameters and actions.
+  * Zooming into the door in the bottom left and selecting the line and the arc.
+    * I quickly updated them to be on the "0" layer instead of the "walls" layer.
+  * Then I updated the drafting layer to be the doors layer.
+  * In the Insert ribbon, we go to "create block" in the block definition panel.
+  * I named it "Door-DYN" and selected the basepoint snap to be the lower left of the straight line.
+  * Then I selected the objects to be in the "Door-DYN" block, which was the line and arc.
+  * Made sure Annotative was off, and allowed exploding and scale uniformly checked on.
+  * I opened the door block in the block editor to add the parameters.
+  * First was the "flip" parameter, which then asks us to specify a base point for the reflection line (similar to mirror).
+  * I went into the OSNAP override menu and selected "between two points", selecting the midpoint at the [bottom of the door block]().
+  * I chose at 90 degrees, and we have ["Flip state1"]().
+    * Note, you can name your flip states, but in this case we won't.
+  * Now we need to add the action to the flip from the "Actions" tab in the Block Authoring pallet.
+    * To do this, we select the flip action, select the flip line, then we need to [select the objects]().
+  * Now we can test our block by clicking the test block button, and we can see that it [flips around]() on that [vertical axis]().
+  * Then we can insert our block back into our drawing on the doors layer, and if you click on the door you can flip it in the [drawing as well]().
+  * You can add actions to any blocks making them "dynamic" blocks.
+ 
+
+
+
+
+
 </details>
 </details>
