@@ -807,6 +807,8 @@ Key Takeaways:
   * Learned how to edit existing blocks in the block editor view.
   * Learned how to replace blocks using the new BReplace tool.
   * Learned how to explode nested blocks into their original blocks, and the file size limitations of doing so.
+  * Learned how to create a simple dynamic block with parameters and actions.
+  * Learned how to save objects, geometries, and blocks into a .dwg file using write block for reuse in other drawings. 
 
 
 <details>
@@ -881,7 +883,22 @@ Key Takeaways:
   * Then we can insert our block back into our drawing on the doors layer, and if you click on the door you can flip it in the [drawing as well](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/3af295aa0de463f1881a855b4912d11cf3630826/Reusing%20Content/Dyanmic%20Door%20in%20Dawring%20File.png).
   * You can add actions to any blocks making them "dynamic" blocks.
  
-
+    **Using WBLOCK to Write Blocks**
+  * This allows you to write a block to its own separate DWG file to then bring into any drawing.
+  * Note, you can also bring a drawing into a drawing as a block - this is a "block reference".
+    * The reference can be objects, geometry, existing blocks, etc. 
+  * We are going to create an entirely separate .dwg file of some objects we have on our drawing, then edit that .dwg file and redefine a block in our current drawing.
+  * On the Insert tab, clicked "Write Block", selected the "Block" for the source option, then selected the "Door-DYN".
+    * Note - the file name AND path is important, need to select where you want the Door-DYN to go. It defaults to the project it is created in, but you might want to move it elsewhere.
+  * I hit on ok, as for this tutorial we can keep it in that project file.
+  * If we go to open up on the quick access toolbar and hit "open", we can see it in our project file. Let's open it.
+  * Since it's a dynamic block in there, we get a pop-up asking to open in block editor (hit yes).
+  * We erased our flip state to change the format of our door. We got rid of the arc and instead put a [linear line like so]().
+  * Then added the flip action back to the [new door shape](). Tested the block as well in the block editor tab, worked as expected.
+  * Then when we exit block editor, note it says "Save Changes to Current Drawing".
+    * Here, it is saving changes to the Door-DYN.dwg file, not the block itself. This closes the Door-DYN.dwg file and we are back in our original drawing.
+    * We want to insert the drawing to replace the old door - the "old fashioned" way is to type in "classic insert".
+    * Doing this, it asks us if we want to "redefine instances of Door-DYN". Clicking yes, it automatically updates our door in the drawing, [prompting us to place another]().
 
 
 
