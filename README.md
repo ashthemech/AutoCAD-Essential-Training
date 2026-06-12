@@ -913,22 +913,27 @@ Key Takeaways:
 <summary> Office Workstation.dwg - Attributes and Tables </summary>
  > Office Workstation.dwg is the previous workstation with a dest, plat, chair, and PC. 
 
+
    **Creating a Simple Block with Attributes**
    * Ensured I was in the "Attributes" layer in the dropdown.
    * We are going to add some attributes to the workstation, which provide extra information about the Block. Normally text attributes- can be visible or invisible.
     * Similar to attribute notes in KiCad component parts.
   * Go to the insert tab on the ribbon, then "define attributes" in the block definition pallet.
-  * First one will be a "tag" called [EMP_NAME]() (employee name). Note, tags cannot have spaces in them.
+  * First one will be a "tag" called [EMP_NAME](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/26cf60b41ed18b0366c3f11a1c95b92c74e8a823/Attributes%20and%20Tables/EMP%20NAME%20Tag.png) (employee name). Note, tags cannot have spaces in them.
   * Prompt will be "Employee name?"
   * Default will be "Luke Skywalker" - this is just the placeholder.
   * Changed text style to standard, made sure specify on screen was ticked, and changed text height to 150.
   * Right clicked and repeat ATTDEF, but tick "align below previous attribution".
-  * This one will be [EMP_NO]() (employee number) with prompt "Employee number?" with default 9999.
-  * Repeating ATTDEF one more time, ticking align below again to add [employee extension number]().
+  * This one will be [EMP_NO](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/26cf60b41ed18b0366c3f11a1c95b92c74e8a823/Attributes%20and%20Tables/EMP%20NO%20Tag.png) (employee number) with prompt "Employee number?" with default 9999.
+  * Repeating ATTDEF one more time, ticking align below again to add [employee extension number](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/26cf60b41ed18b0366c3f11a1c95b92c74e8a823/Attributes%20and%20Tables/EMP%20EXTN%20Tag.png).
   * Now staying on insert tab, we go to "create block" and name it Workstation_ATTR.
   * I picked the point as the top left corner of the desk, selected all the objects & attributes, selected delete in the objects section, and allowed exploding and scale uniformly.
-  * Then in the home tab, chose the workstation layer, then [inserted the new block]().
-  * Note, it [prompts you]() for all of the attributes you created previously prefilled with the defaults. 
+  * Then in the home tab, chose the workstation layer, then [inserted the new block](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/26cf60b41ed18b0366c3f11a1c95b92c74e8a823/Attributes%20and%20Tables/Placing%20Attr.%20Workstation%20w%20Defaults.png).
+  * Note, it [prompts you](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/26cf60b41ed18b0366c3f11a1c95b92c74e8a823/Attributes%20and%20Tables/Attr.%20Promps%20Dialogue%20Box.png) for all of the attributes you created previously prefilled with the defaults.
+
+
+  **Working with Enhanced Attribute Editor**
+  * 
 
 </details>
 </details>
