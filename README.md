@@ -933,7 +933,13 @@ Key Takeaways:
 
 
   **Working with Enhanced Attribute Editor**
-  * 
+  * If you hover over the attributes added to the workstation and double click, it will open the [enhanced attributes editor](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/781dfa2489aaecfea4507adeeab30cd9e8e90919/Attributes%20and%20Tables/Enhanced%20Attributes%20Editor.png).
+  * This allows you to individually edit the attribute values, say if an employee name changes.
+  * If you hit "Okay", it applies and closes the editor- but if you click apply, it will apply the change and keep the editor open.
+  * Text options you can change the style, justification, height, etc.
+  * If you go into the text properties, you can change the layer, color, etc.
+  * Note, it is specific to the individual block.
+
 
 </details>
 </details>
