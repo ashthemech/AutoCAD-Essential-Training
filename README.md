@@ -893,15 +893,12 @@ Key Takeaways:
   * I hit on ok, as for this tutorial we can keep it in that project file.
   * If we go to open up on the quick access toolbar and hit "open", we can see it in our project file. Let's open it.
   * Since it's a dynamic block in there, we get a pop-up asking to open in block editor (hit yes).
-  * We erased our flip state to change the format of our door. We got rid of the arc and instead put a [linear line like so]().
-  * Then added the flip action back to the [new door shape](). Tested the block as well in the block editor tab, worked as expected.
+  * We erased our flip state to change the format of our door. We got rid of the arc and instead put a [linear line like so](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ef518e054b235c3f763b08019424909a74b3d85e/Reusing%20Content/Updated%20Door%20Shape.png).
+  * Then added the flip action back to the [new door shape](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ef518e054b235c3f763b08019424909a74b3d85e/Reusing%20Content/Adding%20Flip%20State%20to%20New%20Door.png). Tested the block as well in the block editor tab, worked as expected.
   * Then when we exit block editor, note it says "Save Changes to Current Drawing".
     * Here, it is saving changes to the Door-DYN.dwg file, not the block itself. This closes the Door-DYN.dwg file and we are back in our original drawing.
     * We want to insert the drawing to replace the old door - the "old fashioned" way is to type in "classic insert".
-    * Doing this, it asks us if we want to "redefine instances of Door-DYN". Clicking yes, it automatically updates our door in the drawing, [prompting us to place another]().
-
-
-
+    * Doing this, it asks us if we want to "redefine instances of Door-DYN". Clicking yes, it automatically updates our door in the drawing, [prompting us to place another](https://github.com/ashthemech/AutoCAD-Essential-Training/blob/ef518e054b235c3f763b08019424909a74b3d85e/Reusing%20Content/Updating%20Door-DYN%20in%20Drawing.png).
 
 </details>
 </details>
