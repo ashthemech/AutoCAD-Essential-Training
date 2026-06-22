@@ -907,7 +907,8 @@ Key Takeaways:
 <summary> 15. Attributes and Tables </summary> 
 
   Key Takeaways:
-  * n
+  * Learned how to add attributes and prompts to a block.
+  * Learned how to use the Enhanced Attributes Editor to change things like color, font, height, etc.
 
 <details>
 <summary> Office Workstation.dwg - Attributes and Tables </summary>
@@ -940,6 +941,9 @@ Key Takeaways:
   * If you go into the text properties, you can change the layer, color, etc.
   * Note, it is specific to the individual block.
 
+  **Working with Table Styles**
+  > NEW FILE! Simple Obkects.dwg - file with a rectangle, circle, and hexagon. 
+  * 
 
 </details>
 </details>
